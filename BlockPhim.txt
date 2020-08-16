@@ -5,3 +5,13 @@ beacons.gvt2.com
 beacons.gcp.gvt2.com		
 beacons5.gvt2.com
 beacons4.gvt2.com
+five88.biz
+v10.events.data.microsoft.com
+settings-win.data.microsoft.com
+www.facebook.com
+fonts.gstatic.com
+(blocked gstaticadssl.l.google.com)
+connect.facebook.net
+www.googletagmanager.com
+clientservices.googleapis.com
+connect.facebook.net
