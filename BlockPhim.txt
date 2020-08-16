@@ -1,31 +1,32 @@
-127.0.0.1  	192beacons3.gvt2.com	
-127.0.0.1	beacons2.gvt2.com		
-127.0.0.1	beacons5.gvt3.com		
-127.0.0.1	beacons.gvt2.com		
-127.0.0.1	beacons.gcp.gvt2.com		
-127.0.0.1	beacons5.gvt2.com
-127.0.0.1	beacons4.gvt2.com
-127.0.0.1	five88.biz
-127.0.0.1	v10.events.data.microsoft.com
-127.0.0.1	settings-win.data.microsoft.com
-127.0.0.1	www.facebook.com
-127.0.0.1	fonts.gstatic.com
-127.0.0.1	(blocked gstaticadssl.l.google.com)
-127.0.0.1	connect.facebook.net
-127.0.0.1	www.googletagmanager.com
-127.0.0.1	clientservices.googleapis.com
-127.0.0.1	connect.facebook.net
-127.0.0.1	11bet.win
-127.0.0.1	r.mail.ru
-127.0.0.1	www.tns-counter.ru
-127.0.0.1	11bet.win
-127.0.0.1	accounts.livechatinc.com
-127.0.0.1	game.taib52.club
-127.0.0.1	one88.me
-127.0.0.1	fabet.info
-127.0.0.1	www.uwin71.com
-127.0.0.1	8live.win
-127.0.0.1	tuenhi86.vin
-127.0.0.1	accounts.doubleclick.net
+beacons3.gvt2.com	
+beacons2.gvt2.com		
+beacons5.gvt3.com		
+beacons.gvt2.com		
+beacons.gcp.gvt2.com		
+beacons5.gvt2.com
+beacons4.gvt2.com
+five88.biz
+v10.events.data.microsoft.com
+settings-win.data.microsoft.com
+www.facebook.com
+fonts.gstatic.com
+(blocked gstaticadssl.l.google.com)
+connect.facebook.net
+www.googletagmanager.com
+clientservices.googleapis.com
+connect.facebook.net
+11bet.win
+r.mail.ru
+www.tns-counter.ru
+11bet.win
+accounts.livechatinc.com
+game.taib52.club
+one88.me
+fabet.info
+www.uwin71.com
+8live.win
+tuenhi86.vin
+accounts.doubleclick.net
+beacons5.gvt3.com
 
 
