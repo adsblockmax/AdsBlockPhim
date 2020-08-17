@@ -28,5 +28,18 @@ www.uwin71.com
 tuenhi86.vin
 accounts.doubleclick.net
 beacons5.gvt3.com
-
+api.livechatinc.com
+v10.events.data.microsoft.com
+prd.jwpltx.com
+s.youtube.com
+fonts.gstatic.com
+images.dmca.com
+www.googletagmanager.com
+js-agent.newrelic.com
+sap.prprocess.com
+m.five88.biz
+lucky88.live
+app-measurement.com
+googleads.g.doubleclick.net
+client-event-reporter.twitch.tv
 
