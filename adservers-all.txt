@@ -2041,7 +2041,6 @@ rintinwa.com
 salamaleyum.com
 web.dle-news.pw
 xbasfbno.info
-! don't add `` to these rules
 jshosting.bid
 hostingcloud.download
 freecontent.racing
@@ -2050,11 +2049,6 @@ ssite.flashx.cc
 sskencituer.com
 likeminer.nablabee.com
 miner.nablabee.com
-!
-! Source name: EasyList ad servers
-! Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
-!
-! Non-flagged (Revolving ad servers)
 01dbf3a452b6.com
 05xz0h2xo799.com
 0aa89ur58y.top
@@ -16839,7 +16833,7 @@ yovoads.com
 restartad.com
 appgiftwall.oss-us-west-1.aliyuncs.com
 appgift.sinaapp.com
-ad.mail.ru|
+ad.mail.ru
 video.intl.xiaomi.com
 servedby.o2.co.uk
 amillionads.com
@@ -25114,21 +25108,6 @@ ver-pelis.net
 xclk-integracion.com
 yestorrents.org
 zebestof.com
-!
-!
-! Source name: AdGuard Russian filter ad servers
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers.txt
-!
-!
-! Содержит доменные имена, использующиеся рекламными сетями.
-!
-! rbConfig={start:performance.now(),rbDomain:"www.takidd.site",rotator:'1tisz'};
-! например, vph-holod.ru
-!
-! AdsWell.ru
-! `window.adswellBaseDomain`
-! https://damskiy.xyz/vendor/lib/oY.js
-!
 takidd.site
 damskiy.xyz
 rekagrorb.bid
@@ -32935,7 +32914,7 @@ yy18.info-thanks
 120.27.html
 121.40.136.114htm
 122.225.103.htm
-159i.comphp|
+159i.comphp
 173.208.177.227gif
 180.96.27.85htm
 182.92.234.239html
@@ -33285,30 +33264,30 @@ z.nowscore.com
 zhimg.com-adx
 zt2088.com
 ztyumn.ifeng.com
-@@95599.cn-ad
-@@abchina.com-ad
-@@ad.10010.com
-@@ad.abchina.com
-@@ad.kazakinfo.com
-@@ad.ourgame.com
-@@adcdn.pingan.com
-@@advert.kf5.com
-@@api.ads.tvb.com
-@@app-advertise.zhihuishu.com
-@@buyad.bi-xenon.cn
-@@captcha.su.baidu.com
-@@ccb.com-ad
-@@img.ads.tvb.com
-@@mmy.la-300-250
-@@newad.mail.wo.cn
-@@nthu.edu.tw-ad
-@@static.atm.youku.comswf
-@@szhr.com.cn-ad
-@@szhr.com-ad
-@@wubisheng.netjs
-@@youku.com-adshow
-@@youku.com-showAd
-@@yzzkb.com.cn-ad.
+95599.cn-ad
+abchina.com-ad
+ad.10010.com
+ad.abchina.com
+ad.kazakinfo.com
+ad.ourgame.com
+adcdn.pingan.com
+advert.kf5.com
+api.ads.tvb.com
+app-advertise.zhihuishu.com
+buyad.bi-xenon.cn
+captcha.su.baidu.com
+ccb.com-ad
+img.ads.tvb.com
+mmy.la-300-250
+newad.mail.wo.cn
+nthu.edu.tw-ad
+static.atm.youku.comswf
+szhr.com.cn-ad
+szhr.com-ad
+wubisheng.netjs
+youku.com-adshow
+youku.com-showAd
+yzzkb.com.cn-ad.
 immedlinkum.info
 xayah.date
 003store.com
@@ -35916,7 +35895,7 @@ qhdbfjx.com
 sohu999.com
 tcmdz.com
 withad.cn
-@@huke88.com-tracking.js
+huke88.com-tracking.js
 !
 ! Source name: Additional rules
 ! Source: Filters/rules.txt
