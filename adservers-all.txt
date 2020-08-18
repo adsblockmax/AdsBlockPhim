@@ -20144,5 +20144,23 @@
 0.0.0.0 beacons3.gvt2.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 five88.biz
+0.0.0.0 r.mail.ru
+0.0.0.0 11bet.win
+0.0.0.0 connect.facebook.net
+0.0.0.0 8live.win
+0.0.0.0 ad.11bet.win
+0.0.0.0 ad.www.googletagmanager.com
+0.0.0.0 ad.beacons5.gvt3.com
+0.0.0.0 ad.beacons5.gvt2.com
+0.0.0.0 ad.beacons4.gvt2.com
+0.0.0.0 ad.beacons3.gvt2.com
+0.0.0.0 ad.beacons.gvt2.com
+0.0.0.0 ad.beacons.gcp.gvt2.com
+0.0.0.0 ad.five88.biz
+0.0.0.0 ad.r.mail.ru
+0.0.0.0 ad.11bet.win
+0.0.0.0 ad.connect.facebook.net
+0.0.0.0 ad.8live.win
 
 
