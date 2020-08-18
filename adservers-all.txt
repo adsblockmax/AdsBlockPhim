@@ -20134,3 +20134,15 @@
 0.0.0.0 track.appsflyer.com
 0.0.0.0 validate.appsflyer.com
 0.0.0.0 wa.appsflyer.com
+# --- Phim block ---
+0.0.0.0 ads.11bet.win
+0.0.0.0 11bet.win
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 beacons5.gvt3.com
+0.0.0.0 beacons5.gvt2.com
+0.0.0.0 beacons4.gvt2.com
+0.0.0.0 beacons3.gvt2.com
+0.0.0.0 beacons.gvt2.com
+0.0.0.0 beacons.gcp.gvt2.com
+
+
