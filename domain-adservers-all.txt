@@ -627,7 +627,7 @@ adsatt..starwave.com
 adschoom.com
 adserver.bing.com
 adserver.yahoo.com
-adservice.google.*
+adservice.google
 adservme.com
 adsfactor.net
 adsintl.starwave.com
@@ -697,7 +697,7 @@ amazon-adsystems.com
 ambimob.com
 amplitude.com
 amung.us
-an*adserv.online
+an-adserv.online
 an.facebook.com
 an.yandex.ru
 analy.qq.com
@@ -938,8 +938,8 @@ external-promo-metrics.yandex.net
 ezodn.com
 ezoic.net
 factual.com
-fads*s.com
-fads*z.com
+fads-s.com
+fads-z.com
 faktor.io
 fatchilli.media
 fclick-adnow.com
@@ -959,8 +959,8 @@ fstats.xyz
 fullstory.com
 fwmrm.net
 fyber.com
-gads*s.com
-gads*z.com
+gads-s.com
+gads-z.com
 galaxiemedia.fr
 gameanalytics.com
 gaug.es
@@ -988,7 +988,7 @@ gsp1.baidu.com
 gssprt.jp
 gumgum.com
 hadarone.com
-hads*s.com
+hads-s.com
 headlinerlabs.com
 heapanalytics.com
 heyzap.com
@@ -1081,7 +1081,7 @@ logrocket.io
 lotame.com
 lsosad.com
 mads.amazon.com
-mads*z.com
+mads-z.com
 mads.cnet.com
 mahimeta.com
 mail-ads.google.com
@@ -1149,8 +1149,8 @@ mstorer.net
 mxpnl.com
 mydas.mobi
 myfastcdn.com
-n*adserv.com
-n*adserv.xyz
+n-adserv.com
+n-adserv.xyz
 navdmp.com
 ncaudienceexchange.com
 nend.net
@@ -1284,7 +1284,7 @@ runative.com
 s-2mdn-net.l.google.com
 s-onetag.com
 s4d.xyz
-sads*z.com
+sads-z.com
 safedk.com
 sail-horizon.com
 samba.tv
