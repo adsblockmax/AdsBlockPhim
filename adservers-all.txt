@@ -1447,7 +1447,7 @@ adsglow.net
 adsmeda.com
 adspeed.net
 adsrvgateway.com
-adsrvmedia.adk2.co$important
+adsrvmedia.adk2.co-important
 adtech.com
 adternal.com
 adtomafusion.net
@@ -1492,7 +1492,7 @@ bestwebdeal.net
 bgcsojmtgdrv.com
 bitmedia.io
 blkget8.com
-block.s*block.com
+block.s-block.com
 boomads.com
 brand.ad
 brassyobedientcotangent.com
@@ -18689,7 +18689,7 @@ d3j1weegxvu8ns.cloudfront.net
 trk.performanceplay.co.kr
 atlas1.krone.at
 spr.bild.de
-pixel.wp.pl$important
+pixel.wp.pl-important
 dot.wp.pl
 player-feedback-v1.glomex.com
 track.sohu.com
@@ -18718,7 +18718,7 @@ st.dynamicyield.com
 analytics-udg.netdna-ssl.com
 collecte.audience.acpm.fr
 stats.otempo.com.br
-pixel.4players.de$important
+pixel.4players.de-important
 lexip.4players.de
 monitor-targeting-failures.sqrt-5041.de
 analytics.businessinsider.com
@@ -22872,7 +22872,7 @@ chartaca.com.s3.amazonaws.com
 click.appinthestore.com
 click.aristotle.net
 click.rssfwd.com
-clicker.com*pageurl
+clicker.com-pageurl
 clicks.dealer.com
 clicktale.pantherssl.com
 clickthru.lefbc.com
@@ -23623,7 +23623,7 @@ webtracker.apicasystem.com
 widget.perfectmarket.com
 widget.quantcast.com
 win.staticstuff.net
-woolik.com*tracker
+woolik.com-tracker
 ws.audioeye.com
 wstat.wibiya.com
 x.weather.com
@@ -24957,7 +24957,7 @@ tracking.aita.gov.vn
 ! Section contains list of advertising networks
 !
 ! https://forum.adguard.com/index.php?threads/ivoox-com-podcasts-issues.29530/
-! addevweb.com$third-party
+! addevweb.com-third-party
 !
 adsrv.eacdn.com
 videoo.tv
@@ -27131,7 +27131,7 @@ invest-system.net
 ipapin.info
 ipgettraff.info
 ipgold.ru
-iphone-caviar.ru*entranceId
+iphone-caviar.ru-entranceId
 iphonetopsite.ru
 ipml-qvr8go.ru
 ipurl.ru
@@ -28104,7 +28104,7 @@ rdiul.com
 readme.ru
 readnewstoday.ru
 ready4win.com
-real*traf.ru
+real-traf.ru
 realbig.media
 realer.info
 realtraf.net
@@ -28890,7 +28890,7 @@ vxqpomwum.pw
 vyalkata.ru
 vztfc.com
 vzyat-kredit.info
-w*statistics.info
+w-statistics.info
 wafum.ml
 waogi.com
 wapbanner.net
@@ -29252,7 +29252,7 @@ banners.haqqin.az
 banners.prikol.ru
 banshop.gruntovik.ru
 bet.championat.com
-bet.championat.com$important
+bet.championat.com-important
 tea.pornolomka.video
 bn.kino-go.co
 bn.take-profit.org
@@ -29337,7 +29337,7 @@ info.emoment.com
 ext.week.news
 smi.today
 readto.ru
-.az*iframe2news
+.az-iframe2news
 adwile.com
 api.rnet.plus
 data.24smi.net
@@ -32925,7 +32925,7 @@ u26u.com
 wy213.com
 xingshenfang.cn
 xiyouence.com
-yy18.info*thanks
+yy18.info-thanks
 027cgb.comgif
 1.hao123.com
 1.i999d.cn
@@ -32949,7 +32949,7 @@ yy18.info*thanks
 31vcd.comjs
 360safego.com
 5y9nfpes.52pk.com
-6080yy.net*0x
+6080yy.net-0x
 61.164.108.184gif
 61.164.108.184swf
 614514.com
@@ -32961,13 +32961,13 @@ yy18.info*thanks
 801.tianyaui.com
 883ads.comjs
 8jkx.com
-98441.com*gg
+98441.com-gg
 a.baomihua.com
 a.nowscore.com
 a.xywy.com
 a2.b310.com
 a2.xinhuanet.com
-abbao.cn*adblock
+abbao.cn-adblock
 abc.hkepc.com
 abc.hkepc.net
 abminbuy.comgif
@@ -33027,7 +33027,7 @@ b.tukucc.com
 badding.oss-ap-southeast-1.aliyuncs.com
 baidu-taobao-av.comgif
 baifen.music.baidu.com
-baiyug.cn*AD.js
+baiyug.cn-AD.js
 bbs.gmbbk.comjs
 besc.baidustatic.com
 biz.gexing.com
@@ -33045,7 +33045,7 @@ cdgfa.ifeng.com
 cdn.wuyou.ca
 cdnjjvcd.comphp
 chidir.com
-citysbs.com*swf
+citysbs.com-swf
 client.88tours.com
 cmm.xmfish.com
 cms.fx678.com
@@ -33064,7 +33064,7 @@ deliver.ifeng.com
 delivery.playallvideos.com
 delivery.wasu.cn
 detowd.comphp
-dingniugu.com*public.
+dingniugu.com-public.
 djs.baomihua.com
 doubleclick.ctfile.com
 dsp.ali213.net
@@ -33083,10 +33083,10 @@ ecmb.bdimg.com
 emdcadvertise.eastmoney.com
 erebor.douban.com
 ermao.sikabeila.com
-fdc.com.cn*adv
+fdc.com.cn-adv
 fenglan.oss-cn-shenzhen.aliyuncs.comgif
 ff.meikanguo.com
-firefoxchina.cn*49560.
+firefoxchina.cn-49560.
 free-cdn.oss-cn-shanghai.aliyuncs.com
 fun.ynet.com
 g.hsw.cn
@@ -33134,12 +33134,12 @@ i.syasn.com
 iads.xinmin.cn
 iask.cndata.
 iask.cnparam.
-iask.cn*commercial.
-iask.cn*model.
+iask.cn-commercial.
+iask.cn-model.
 idcot.com
-ifengimg.com*300x600
-ifengimg.com*600-2.swf
-ifengimg.com*600.swf
+ifengimg.com-300x600
+ifengimg.com-600-2.swf
+ifengimg.com-600.swf
 imedown.infogif
 imghc360.comswf
 img.3sjt.com
@@ -33155,7 +33155,7 @@ imgadsame.liba.com
 impserviceyodao.com
 impserviceyoudao.com
 inte.sogou.com
-itmsc.cn*ad0
+itmsc.cn-ad0
 itv.hexun.com
 ivy.pconline.com.cn
 iwanad.baidu.com
@@ -33169,12 +33169,12 @@ js.hkslg520.com
 jupi.ccgif
 jxad.jx163.com
 kwflvcdn.000dn.comflv
-leagueofmovie.com*Ads
+leagueofmovie.com-Ads
 libfre.obs.cn-east-3.myhuaweicloud.com
 ll.gxsky.com
 luolidashu.xyzgif
 lxting.com
-lyd.com.cn*950-90.
+lyd.com.cn-950-90.
 m.aty.sohu.com
 m2.lelemh.com
 mall0.qiyipic.com
@@ -33197,7 +33197,7 @@ p.zol-img.com.cn
 p4p.sina.com.cn
 p8u.hinet.net
 panda.kdnet.net
-pansoso.com*pss.
+pansoso.com-pss.
 partner.toutiao.com
 pekingpk10.com
 pg-ad-b1.nosdn.127.net
@@ -33214,9 +33214,9 @@ publish.ad.youth.cn
 pw321.comgif
 qcvf.ifeng.com
 qd.x4399.com
-qqfby.com*ad
+qqfby.com-ad
 qunlove.comgif
-r3sub.com*0.gif
+r3sub.com-0.gif
 resource.baomihua.com
 rh.qq.com
 sa.sina.cn
@@ -33226,7 +33226,7 @@ same.chinadaily.com.cn
 same.eastmoney.com
 saxsina.
 sgg.southcn.com
-shaoxing.com.cn*gg.
+shaoxing.com.cn-gg.
 share.gzdsw.com
 ssgg.chazidian.com
 ssnn.net-200-250.jpg
@@ -33241,7 +33241,7 @@ sudupan.comgif
 super.cat898.com
 super.kdnet.net
 synacast.com
-techweb.com.cn*aliyun
+techweb.com.cn-aliyun
 tf.360.cn
 theta.sogoucdn.com
 tiimg.comgif
@@ -33260,7 +33260,7 @@ vnet.cnhtml
 vupload.duowan.com
 wallstcn.com-300x250.
 web.900.la
-wenkuxiazai.com*reward
+wenkuxiazai.com-reward
 wew.dushiwenxue.net
 wowad.wow-classic.com
 wuliao.epro.sogou.com
@@ -33282,11 +33282,11 @@ yybx.oss-cn-hangzhou.aliyuncs.com
 yyo876.comphp
 yyoyyu.comphp
 z.nowscore.com
-zhimg.com*adx
+zhimg.com-adx
 zt2088.com
 ztyumn.ifeng.com
-@@95599.cn*ad
-@@abchina.com*ad
+@@95599.cn-ad
+@@abchina.com-ad
 @@ad.10010.com
 @@ad.abchina.com
 @@ad.kazakinfo.com
@@ -33297,18 +33297,18 @@ ztyumn.ifeng.com
 @@app-advertise.zhihuishu.com
 @@buyad.bi-xenon.cn
 @@captcha.su.baidu.com
-@@ccb.com*ad
+@@ccb.com-ad
 @@img.ads.tvb.com
-@@mmy.la*300*250
+@@mmy.la-300-250
 @@newad.mail.wo.cn
-@@nthu.edu.tw*ad
+@@nthu.edu.tw-ad
 @@static.atm.youku.comswf
-@@szhr.com.cn*ad
-@@szhr.com*ad
+@@szhr.com.cn-ad
+@@szhr.com-ad
 @@wubisheng.netjs
-@@youku.com*adshow
-@@youku.com*showAd
-@@yzzkb.com.cn*ad.
+@@youku.com-adshow
+@@youku.com-showAd
+@@yzzkb.com.cn-ad.
 immedlinkum.info
 xayah.date
 003store.com
@@ -35537,7 +35537,7 @@ virgo8.cn
 vjuer.com
 vkjnd.com
 vkuay.com
-vodtw.la*xhtml
+vodtw.la-xhtml
 voterlin.cn
 vvnna.com
 vwb4p.cn
@@ -35900,7 +35900,7 @@ pv4b.com
 sa669.com
 xdh0808.com
 yunsennet.com
-webkaka.com*x50.
+webkaka.com-x50.
 69lm.com.cn
 qhdfxkj.com
 qyqc4s.com
