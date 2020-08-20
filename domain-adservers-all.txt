@@ -5352,6 +5352,12 @@ ad.s-youtube.com.vn
 ad.s-youtube
 ads.googleads.g.doubleclick.net
 fonts.gstatic.com
-ads.(blocked gstaticadssl.l.google.com)
+ads.blocked gstaticadssl.l.google.com
 ads.youtube.com.vn
 ads.www.googleadservices.com
+ads.fonts.gstatic.com
+ads.fonts.gstatic.com.vn
+ads.connect.facebook.net
+ads.11bet.win
+ads.tai789.net
+ads.onemboaran.com
