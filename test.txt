@@ -1,11 +1,6 @@
-http://tvhayz.org/ads/dt/tuenhi/980-x-90.gif
-http://tvhayz.org/ads/dt/fabet/300x250-m.gif
-http://tvhayz.org/ads/dt/8live/300x250-8live-slow-new.gif
-http://tvhayz.org/ads/dt/five88/300x250-FV.gif
-https://www.uwin71.com/vn/#/
-http://tvhayz.org/ads/dt/uwin/tvhay-120x600.gif
-http://tvhayz.org/ads/dt/one88/300x250-one88-new.gif
-https://8live.win/?utm_source=tvhay.org&utm_medium=rightbanner&utm_campaign=david&utm_term=300x250
-https://game.taib52.club/?a=B5_CPD_P&utm_source=tvhay.org&utm_medium=Float_right&utm_campaign=CPD
-http://tvhayz.org/ads/dt/b52/120x600.gif
-http://tvhayz.org/ads/dt/tuenhi/980-x-90.gif
+m.youtube.com
+youtube.com/api/stats/ads
+ads.youtube.com
+youtube.com/_get_ads?
+m.youtube.com##.companion-ad-container
+youtube.com##ytm-promoted-video-renderer
