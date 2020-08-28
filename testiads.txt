@@ -1,38 +1,22 @@
-0.0.0.0 1.bp.blogspot.com
-0.0.0.0 cdn.ampproject.org
-0.0.0.0 mobile-gtalk.l.google.com
-0.0.0.0 connect.facebook.net
-0.0.0.0 s.w.org
-0.0.0.0 clients4.google.com
-0.0.0.0 mobile-gtalk.l.google.com
-0.0.0.0 iamcdn.net
-0.0.0.0 vodplhq.cdn04plhq.club
-0.0.0.0 vodplhq.cdn03plhq.club
-0.0.0.0 vodplhq.cdn02plhq.club
-0.0.0.0 vodplhq.cdn01plhq.club
-0.0.0.0 prd.jwpltx.com
-0.0.0.0 clipbongda.info
-0.0.0.0 ssl.p.jwpcdn.com
-0.0.0.0 content.jwplatform.com
-0.0.0.0 ping.iamcdn.net
-0.0.0.0 inpagepush.com
-0.0.0.0 img.iamcdn.net
-0.0.0.0 unreshiramor.com
-0.0.0.0 cjmm2ieea.ggd1vlcjm0.buzz
-0.0.0.0 ocsp.int-x3.letsencrypt.org
-0.0.0.0 iwhugaul.com
-0.0.0.0 app-measurement.com
-0.0.0.0 r2---sn-apaapm4g-apae.googlevideo.com
-0.0.0.0 r3---sn-25glen7e.googlevideo.com
-0.0.0.0 r8---sn-42u-nbosr.googlevideo.com from
-0.0.0.0 app-measurement.com
-0.0.0.0 fabet.info
-0.0.0.0 8live.win
-0.0.0.0 five88.biz
-0.0.0.0 game.taib52.club
-0.0.0.0 one88.me
-0.0.0.0 www.uwin71.com
-0.0.0.0 img.iamcdn.net
+img.iamcdn.net
 ad.img.iamcdn.net
 ad.iamcdn.net
 ad.8live.win
+iamcdn.net-players-player.min.css
+tvhay.org-utm-medium=Float-right-utm-campaign-CPD
+iamcdn.net-players-sotrym.player.min.css
+game.taib52.club
+jwplayer.v8.custom.min.js
+jwplayer.core.controls.html5.js
+jwpsrv.js
+related.js
+provider.cast.js
+cast-framework.js
+cast-sender.js
+BHbHvWx45.jpg
+
+#[Video]
+r6---sn-25ge7nsl.googlevideo.com
+r2---sn-apaapm4g-apae.googlevideo.com
+r8---sn-42u-nbosr.googlevideo.com
+r3---sn-25glen7e.googlevideo.com
