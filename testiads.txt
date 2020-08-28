@@ -25,3 +25,7 @@ cjmm2ieea.ggd1vlcjm0.buzz
 ocsp.int-x3.letsencrypt.org
 iwhugaul.com
 app-measurement.com
+r2---sn-apaapm4g-apae.googlevideo.com
+r3---sn-25glen7e.googlevideo.com
+r8---sn-42u-nbosr.googlevideo.com from
+app-measurement.com
