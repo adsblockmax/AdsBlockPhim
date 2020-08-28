@@ -20,6 +20,7 @@ r1---sn-42u-nboek.googlevideo.com
 r1---sn-npoeenll.googlevideo.com
 r1---sn-42u-nboee.googlevideo.com
 r1---sn-vgqsknez.googlevideo.com
+r1---sn-42u-nboez.googlevideo.com
 #
 # [Video2]
 r2---sn-9gv7ened.googlevideo.com
@@ -63,6 +64,7 @@ r5---sn-qxo7rn7e.googlevideo.com
 # [Video6]
 r6---sn-42u-nboes.googlevideo.com
 r6---sn-npoe7n7s.googlevideo.com
+r6---sn-42u-nboee.googlevideo.com
 #
 # [Video7]
 r7---sn-42u-nbosr.googlevideo.com
