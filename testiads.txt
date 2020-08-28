@@ -30,6 +30,11 @@ salaphim.com/images/$image
 salaphim.com-x-.php-x-xmlhttprequest
 salaphim.com-x-ads-x-media
 topitworks.com/vi/salary/widget-x-subdocument
+ads/dt/tuenhi/980-x-90.gif
+https://www.facebook.com/tuenhi.truong.5458
+ads/dt/fabet/300x250-m.gif
+ads/dt/one88/300x250-one88-new.gif
+ads/dt/8live/300x250-8live-slow-new.gif
 
 #[Video]
 r6---sn-25ge7nsl.googlevideo.com
