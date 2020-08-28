@@ -3,7 +3,7 @@ ad.img.iamcdn.net
 ad.iamcdn.net
 ad.8live.win
 iamcdn.net-players-player.min.css
-tvhay.org-utm-medium=Float-right-utm-campaign-CPD
+tvhay.org-utm-medium-Float-right-utm-campaign-CPD
 iamcdn.net-players-sotrym.player.min.css
 game.taib52.club
 jwplayer.v8.custom.min.js
