@@ -40,6 +40,7 @@ tvhayz.org/playergk/fingerprint2.min.js
 tvhayz.org/preload/
 tvhayz.org,xem7.com,xemphimvtv.net##.ad_location
 tvhayz.org/guide/$script,xmlhttprequest
+i.imgur.com.gif$domain=8bongda.com|bongdatv.net|tructiepbongda.xyz|tv.101vn.com|xemtivingon.com|tvhayz.org|banh24h.com|vuviphim.com|phimgi.tv|binhluan.live|vuviphimz.com|phimnhetv.net|11met.live|hoitruyentranh.com|90p.tv|mythethao.net|baprang.tv|fptplay.org|yeuphimmoi.com|goldphim.com|weblinhtinh.xyz
 
 #[Video]
 r6---sn-25ge7nsl.googlevideo.com
