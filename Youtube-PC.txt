@@ -21,6 +21,7 @@ r1---sn-42u-nboek.googlevideo.com
 r2---sn-9gv7ened.googlevideo.com
 r2---sn-npoe7n7z.googlevideo.com
 r2---sn-42u-nbosr.googlevideo.com
+r2---sn-npoeen7k.googlevideo.com
 r2---sn-i3b7knse.googlevideo.com
 r2---sn-42u-nbos6.googlevideo.com
 r2---sn-42u-nbose.googlevideo.com
@@ -45,6 +46,7 @@ r5---sn-42u-nboek.googlevideo.com
 r5---sn-42u-nbosz.googlevideo.com
 r5---sn-42u-nboed.googlevideo.com
 r5---sn-5goeen7r.googlevideo.com
+r5---sn-42u-nboes.googlevideo.com
 #
 # [Video6]
 r6---sn-42u-nboes.googlevideo.com
