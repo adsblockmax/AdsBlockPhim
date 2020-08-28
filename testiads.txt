@@ -14,9 +14,16 @@ provider.cast.js
 cast-framework.js
 cast-sender.js
 BHbHvWx45.jpg
+ads-dt-tuenhi-980-90.gif
+ads-dt-fabet-300x250-m.gif
+ads-dt-one88-300x250-one88-new.gif
+ads-dt-8live-300x250-8live-slow-new.gif
 
 #[Video]
 r6---sn-25ge7nsl.googlevideo.com
 r2---sn-apaapm4g-apae.googlevideo.com
 r8---sn-42u-nbosr.googlevideo.com
 r3---sn-25glen7e.googlevideo.com
+r2---sn-apaapm4g-apae.googlevideo.com
+
+
