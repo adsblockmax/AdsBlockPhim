@@ -32,3 +32,7 @@
 0.0.0.0 game.taib52.club
 0.0.0.0 one88.me
 0.0.0.0 www.uwin71.com
+0.0.0.0 img.iamcdn.net
+ad.img.iamcdn.net
+ad.iamcdn.net
+ad.8live.win
