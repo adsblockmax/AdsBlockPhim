@@ -12,6 +12,8 @@
 0.0.0.0 ads.google.com.vn
 0.0.0.0 ad.google.com.vn
 0.0.0.0 ads.www.google.com.vn
+0.0.0.0 s.youtube.com
+0.0.0.0 www.googleadservices.com
 # [Video1]
 r1---sn-42u-nboed.googlevideo.com
 r1---sn-oguesnz7.googlevideo.com
