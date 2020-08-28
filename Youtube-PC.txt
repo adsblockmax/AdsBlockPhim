@@ -24,23 +24,27 @@ r2---sn-42u-nbosr.googlevideo.com
 r2---sn-i3b7knse.googlevideo.com
 r2---sn-42u-nbos6.googlevideo.com
 r2---sn-42u-nbose.googlevideo.com
-r2---sn-42u-nbosd.googlevideo.com 
+r2---sn-42u-nbosd.googlevideo.com
+r2---sn-42u-nbosk.googlevideo.com
 #
 # [Video3]
 r3---sn-vgqsknls.googlevideo.com
 r3---sn-42u-nbosd.googlevideo.com
 r3---sn-npoeen76.googlevideo.com
 r3---sn-42u-nboek.googlevideo.com
+r3---sn-42u-nbosk.googlevideo.com
 #
 # [Video4]
 r4---sn-42u-nbosk.googlevideo.com
 r4---sn-42u-nbosd.googlevideo.com
 r4---sn-42u-nboed.googlevideo.com
+r4---sn-42u-nboek.googlevideo.com
 #
 # [Video5]
 r5---sn-42u-nboek.googlevideo.com
 r5---sn-42u-nbosz.googlevideo.com
 r5---sn-42u-nboed.googlevideo.com
+r5---sn-5goeen7r.googlevideo.com
 #
 # [Video6]
 r6---sn-42u-nboes.googlevideo.com
