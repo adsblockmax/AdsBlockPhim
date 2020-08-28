@@ -5,7 +5,6 @@
 0.0.0.0 s.w.org
 0.0.0.0 clients4.google.com
 0.0.0.0 mobile-gtalk.l.google.com
-0.0.0.0 play.hydracdn.network
 0.0.0.0 iamcdn.net
 0.0.0.0 vodplhq.cdn04plhq.club
 0.0.0.0 vodplhq.cdn03plhq.club
