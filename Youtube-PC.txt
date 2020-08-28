@@ -1,0 +1,10 @@
+googleads.g.doubleclick.net
+ade.googlesyndication.com
+ad.doubleclick.net
+r6---sn-42u-nboes.googlevideo.com
+r4---sn-42u-nboek.googlevideo.com
+r3---sn-42u-nbosd.googlevideo.com
+r7---sn-42u-nbosd.googlevideo.com
+r2---sn-42u-nbosr.googlevideo.com
+r1---sn-42u-nboed.googlevideo.com
+r5---sn-42u-nboek.googlevideo.com
