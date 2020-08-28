@@ -26,7 +26,7 @@ tvhayz.org-ads.dt.tuenhi.320x90.png
 tvhayz.org.ads-dt.fabet.300x250.m.gif
 graph.facebook.com
 salaphim.com/application/player/js/vastvideoplugin.js
-salaphim.com/images/|image
+salaphim.com/images/$image
 salaphim.com-x-.php-x-xmlhttprequest
 salaphim.com-x-ads-x-media
 topitworks.com/vi/salary/widget-x-subdocument
@@ -39,8 +39,7 @@ tvhayz.org/ads/365.php
 tvhayz.org/playergk/fingerprint2.min.js
 tvhayz.org/preload/
 tvhayz.org,xem7.com,xemphimvtv.net##.ad_location
-tvhayz.org/guide/|script,xmlhttprequest
-i.imgur.com.gif|domain=8bongda.com|bongdatv.net|tructiepbongda.xyz|tv.101vn.com|xemtivingon.com|tvhayz.org|banh24h.com|vuviphim.com|phimgi.tv|binhluan.live|vuviphimz.com|phimnhetv.net|11met.live|hoitruyentranh.com|90p.tv|mythethao.net|baprang.tv|fptplay.org|yeuphimmoi.com|goldphim.com|weblinhtinh.xyz
+tvhayz.org/guide/$script,xmlhttprequest
 
 #[Video]
 r6---sn-25ge7nsl.googlevideo.com
