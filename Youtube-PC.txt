@@ -110,6 +110,7 @@ r3---sn-42u-nbols.googlevideo.com
 r3---sn-42u-nbole.googlevideo.com
 r3---sn-42u-nbols.googlevideo.com
 r3---sn-42u-nboes.googlevideo.com
+r3---sn-42u-nboll.googlevideo.com
 #
 # [Video4]
 r4---sn-42u-nbosk.googlevideo.com
@@ -130,6 +131,7 @@ r5---sn-npoeenee.googlevideo.com
 r5---sn-42u-nbos6.googlevideo.com
 r5---sn-qxo7rn7e.googlevideo.com
 r5---sn-42u-nbole.googlevideo.com
+r5---sn-42u-nbols.googlevideo.com
 #
 # [Video6]
 r6---sn-42u-nboes.googlevideo.com
