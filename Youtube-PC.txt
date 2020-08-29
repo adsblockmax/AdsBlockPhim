@@ -81,6 +81,7 @@ r1---sn-42u-nboee.googlevideo.com
 r1---sn-vgqsknez.googlevideo.com
 r1---sn-42u-nboez.googlevideo.com
 r1---sn-42u-nbose.googlevideo.com
+r1---sn-42u-nbosl.googlevideo.com
 #
 # [Video2]
 r2---sn-9gv7ened.googlevideo.com
