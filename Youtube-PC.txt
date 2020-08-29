@@ -80,6 +80,7 @@ r1---sn-npoeenll.googlevideo.com
 r1---sn-42u-nboee.googlevideo.com
 r1---sn-vgqsknez.googlevideo.com
 r1---sn-42u-nboez.googlevideo.com
+r1---sn-42u-nbose.googlevideo.com
 #
 # [Video2]
 r2---sn-9gv7ened.googlevideo.com
@@ -104,12 +105,17 @@ r3---sn-42u-nboek.googlevideo.com
 r3---sn-42u-nbosk.googlevideo.com
 r3---sn-npoeenez.googlevideo.com
 r3---sn-42u-nbols.googlevideo.com
+r3---sn-42u-nbole.googlevideo.com
+r3---sn-42u-nbols.googlevideo.com
+r3---sn-42u-nboes.googlevideo.com
 #
 # [Video4]
 r4---sn-42u-nbosk.googlevideo.com
 r4---sn-42u-nbosd.googlevideo.com
 r4---sn-42u-nboed.googlevideo.com
 r4---sn-42u-nboek.googlevideo.com
+r4---sn-un57sn76.googlevideo.com
+r4---sn-42u-8j5s.googlevideo.com
 #
 # [Video5]
 r5---sn-42u-nboek.googlevideo.com
@@ -120,6 +126,7 @@ r5---sn-42u-nboes.googlevideo.com
 r5---sn-npoeenee.googlevideo.com
 r5---sn-42u-nbos6.googlevideo.com
 r5---sn-qxo7rn7e.googlevideo.com
+r5---sn-42u-nbole.googlevideo.com
 #
 # [Video6]
 r6---sn-42u-nboes.googlevideo.com
