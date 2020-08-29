@@ -217,7 +217,7 @@ youtube.comytsdomainfilmi7.com
 youtube.comgetvideoinfoxmlhttprequestdomainmusic.youtube.comtv.youtube.com
 googleads.g.doubleclick.netdomainyoutube.com
 m.youtube.comgetmidrolldomainyoutube.com
-pagead2.googlesyndication.comdomainyoutube.com
+pagead2.googlesyndication.com-domainyoutube.com
 static.doubleclick.netdomainyoutube.com
 www.google.compageaddomainyoutube.com
 www.youtube.comgetmidrolldomainyoutube.com
@@ -363,7 +363,7 @@ youtube.comgetvideoinfoxmlhttprequestdomainmusic.youtube.comtv.youtube.com
 youtube.comgetvideoinfoembeddedthird-partyxmlhttprequest
 googleads.g.doubleclick.netdomainyoutube.com
 m.youtube.comgetmidrolldomainyoutube.com
-pagead2.googlesyndication.comdomainyoutube.com
+pagead2.googlesyndication.com-domainyoutube.com
 static.doubleclick.netdomainyoutube.com
 www.google.compageaddomainyoutube.com
 www.youtube.comgetmidrolldomainyoutube.com
@@ -474,6 +474,11 @@ hidesharebuttoninyoutubeplayer
 grammarly.comyoutube.com-share-panel
 yt3.ggpht.com
 ads30.adcolony.com
+play.googleapis.com
+app-measurement.com
+safebrowsing.googleapis.com
+www.googleadservices.com
+growth-pa.googleapis.com
 
 # [Video1]
 r1---sn-42u-nboed.googlevideo.com
@@ -510,6 +515,8 @@ r2---sn-42u-2iie.googlevideo.com
 r2---sn-42u-nboed.googlevideo.com
 r2---sn-42u-nboe6.googlevideo.com
 r2---sn-42u-nboes.googlevideo.com
+r2---sn-npoeenll.googlevideo.com
+r2---sn-npoe7nlz.googlevideo.com
 #
 # [Video3]
 r3---sn-vgqsknls.googlevideo.com
@@ -531,6 +538,8 @@ r3---sn-42u-nboel.googlevideo.com
 r3---sn-42u-nboed.googlevideo.com
 r3---sn-42u-nbosr.googlevideo.com
 r3---sn-npoe7nl6.googlevideo.com
+r3---sn-npoeen7r.googlevideo.com
+r3---sn-npoe7ne7.googlevideo.com
 #
 # [Video4]
 r4---sn-42u-nbosk.googlevideo.com
@@ -566,6 +575,7 @@ r5---sn-42u-nbosd.googlevideo.com
 r5---sn-npoeened.googlevideo.com
 r5---sn-npoe7n7r.googlevideo.com
 r5---sn-apn7en7l.googlevideo.com
+r5---sn-hgn7rn7y.googlevideo.com
 #
 # [Video6]
 r6---sn-42u-nboes.googlevideo.com
@@ -577,6 +587,7 @@ r6---sn-42u-2iie.googlevideo.com
 r6---sn-42u-nboel.googlevideo.com
 r6---sn-42u-nbosz.googlevideo.com
 r6---sn-42u-nbos6.googlevideo.com
+r6---sn-42u-nbosd.googlevideo.com
 #
 # [Video7]
 r7---sn-42u-nbosr.googlevideo.com
