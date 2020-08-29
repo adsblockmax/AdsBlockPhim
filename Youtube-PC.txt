@@ -473,6 +473,7 @@ koskomp.ru-block.youtube
 hidesharebuttoninyoutubeplayer
 grammarly.comyoutube.com-share-panel
 yt3.ggpht.com
+ads30.adcolony.com
 
 # [Video1]
 r1---sn-42u-nboed.googlevideo.com
