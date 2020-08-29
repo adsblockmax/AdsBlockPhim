@@ -1,0 +1,11 @@
+tvhayz.org/ads/365.php
+tvhay.org#%#AG_abortOnPropertyWrite('tvhay');
+tvhay.org/guide/tvhpu11.js
+tvhay.org/guide/punew-tvh.js
+tvhay.org/preload/*.php
+tvhay.org/guide*/pre-*.xml
+p.jwpcdn.com/*/vast.js$important,domain=tvhay.org
+tvhay.org/playergk/fingerprint2.min.js
+tvhay.org##.float-ck
+tvhay.org##.ad_location
+tvhayz.org/playergk/fingerprint2.min.js
