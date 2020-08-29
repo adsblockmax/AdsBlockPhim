@@ -444,7 +444,6 @@ youtubelike.com-bottom-top
 youtubelike.com-gallery-thumbs
 youtube.comadspreferencespopup
 img.youtube.comvisddefault.jpgdomainpornhub.compornhubthbh7ap3u.onion
-s.youtube.com
 s2.youtube.com
 youtube
 fcmatch.youtube.compixel
@@ -473,9 +472,7 @@ youtube.com-share-panel-services-containerdiv#share-services-container
 koskomp.ru-block.youtube
 hidesharebuttoninyoutubeplayer
 grammarly.comyoutube.com-share-panel
-
-
-
+yt3.ggpht.com
 
 # [Video1]
 r1---sn-42u-nboed.googlevideo.com
@@ -507,6 +504,7 @@ r2---sn-npoeenez.googlevideo.com
 r2---sn-npoeener.googlevideo.com
 r2---sn-42u-2iie.googlevideo.com
 r2---sn-42u-nboed.googlevideo.com
+r2---sn-42u-nboe6.googlevideo.com
 #
 # [Video3]
 r3---sn-vgqsknls.googlevideo.com
@@ -539,6 +537,7 @@ r4---sn-42u-nboee.googlevideo.com
 r4---sn-42u-nboel.googlevideo.com
 r4---sn-42u-nbosr.googlevideo.com
 r4---sn-42u-nbosz.googlevideo.com
+r4---sn-42u-nbos6.googlevideo.com
 #
 # [Video5]
 r5---sn-42u-nboek.googlevideo.com
@@ -561,6 +560,7 @@ r6---sn-npoe7n7s.googlevideo.com
 r6---sn-42u-nboee.googlevideo.com
 r6---sn-42u-nbols.googlevideo.com
 r6---sn-42u-nbosk.googlevideo.com
+r6---sn-42u-2iie.googlevideo.com
 #
 # [Video7]
 r7---sn-42u-nbosr.googlevideo.com
