@@ -1,4 +1,4 @@
-# Title: Youtube PC
+# Title: youtube PC
 # Last: modified 28/8/2020
 # Version: 28082020
 
@@ -13,6 +13,64 @@
 0.0.0.0 ad.google.com.vn
 0.0.0.0 ads.www.google.com.vn
 0.0.0.0 www.googleadservices.com
+0.0.0.0 s2.youtube.com
+0.0.0.0 fcmatch.youtube.com/pixel
+0.0.0.0 youtube-nocookie.com/gen-204
+0.0.0.0 youtube.com/api/stats/ads
+0.0.0.0 youtube.com/api/stats/qoe
+0.0.0.0 youtube.com/api/stats/atr
+0.0.0.0 youtube.com/csi-204
+0.0.0.0 youtube.com/gen-204
+0.0.0.0 youtube.com/player-204
+0.0.0.0 youtube.com/ptracking
+0.0.0.0 ads.youtube.com
+0.0.0.0 youtubelike.com/ftt2/toplists/
+0.0.0.0 youtube.com-YtKevlarVisibilityIdentifier
+0.0.0.0 youtube.com-YtSparklesVisibilityIdentifier
+0.0.0.0 youtube.com-feed-pyv-container
+0.0.0.0 youtube.com-feedmodule-PRO
+0.0.0.0 youtube.com-homepage-chrome-side-promo
+0.0.0.0 youtube.com-masthead-ad
+0.0.0.0 youtube.com-merch-shelf
+0.0.0.0 youtube.com-pla-shelf
+0.0.0.0 youtube.com-premium-yva
+0.0.0.0 youtube.com-promo-info
+0.0.0.0 youtube.com-promo-list
+0.0.0.0 youtube.com-search-pva
+0.0.0.0 youtube.com-shelf-pyv-container
+0.0.0.0 youtube.com-video-masthead
+0.0.0.0 youtube.com-watch-branded-actions
+0.0.0.0 youtube.com-watch-buy-urls
+0.0.0.0 youtube.com-watch-channel-brand-div
+0.0.0.0 youtube.com.GoogleActiveViewElement
+0.0.0.0 youtube.com.banner-promo-style-type-masthead-v2
+0.0.0.0 youtube.com.carousel-offer-url-container
+0.0.0.0 youtube.com.companion-ad-container
+0.0.0.0 youtube.com.list-view[style="margin: 7px 0pt;"]
+0.0.0.0 youtube.com.promoted-sparkles-text-search-root-container
+0.0.0.0 youtube.com.promoted-videos
+0.0.0.0 youtube.com.searchView.list-view
+0.0.0.0 youtube.com.sparkles-light-cta
+0.0.0.0 youtube.com.watch-extra-info-column
+0.0.0.0 youtube.com.watch-extra-info-right
+0.0.0.0 youtube.com.ytd-action-companion-ad-renderer
+0.0.0.0 youtube.com.ytd-carousel-ad-renderer
+0.0.0.0 youtube.com.ytd-compact-promoted-video-renderer
+0.0.0.0 youtube.com.ytd-companion-slot-renderer
+0.0.0.0 youtube.com.ytd-display-ad-renderer
+0.0.0.0 youtube.com.ytd-merch-shelf-renderer
+0.0.0.0 youtube.com.ytd-player-legacy-desktop-watch-ads-renderer
+0.0.0.0 youtube.com.ytd-promoted-sparkles-text-search-renderer
+0.0.0.0 youtube.com.ytd-promoted-video-renderer
+0.0.0.0 youtube.com.ytd-search-pyv-renderer
+0.0.0.0 youtube.com.ytd-video-masthead-ad-v3-renderer
+0.0.0.0 youtube.com.ytp-ad-action-interstitial-background-container
+0.0.0.0 youtube.com.ytp-ad-action-interstitial-slot
+0.0.0.0 youtube.com.ytp-ad-image-overlay
+0.0.0.0 youtube.com.ytp-ad-overlay-container
+0.0.0.0 youtube.com.ytp-ad-progress
+0.0.0.0 youtube.com.ytp-ad-progress-list
+0.0.0.0 youtube.com-YTM-PROMOTED-VIDEO-RENDERER
 # [Video1]
 r1---sn-42u-nboed.googlevideo.com
 r1---sn-oguesnz7.googlevideo.com
