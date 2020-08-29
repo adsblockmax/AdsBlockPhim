@@ -5,7 +5,7 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 ad.doubleclick.net
-0.0.0.0.yt3.ggpht.com
+0.0.0.0 yt3.ggpht.com
 0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 g.live.com
@@ -488,6 +488,7 @@ r1---sn-42u-nboez.googlevideo.com
 r1---sn-42u-nbose.googlevideo.com
 r1---sn-42u-nbosl.googlevideo.com
 r1---sn-42u-nboll.googlevideo.com
+r1---sn-42u-nbosr.googlevideo.com
 #
 # [Video2]
 r2---sn-9gv7ened.googlevideo.com
@@ -533,6 +534,8 @@ r4---sn-42u-8j5s.googlevideo.com
 r4---sn-42u-nbole.googlevideo.com
 r4---sn-42u-nboee.googlevideo.com
 r4---sn-42u-nboel.googlevideo.com
+r4---sn-42u-nbosr.googlevideo.com
+r4---sn-42u-nbosz.googlevideo.com
 #
 # [Video5]
 r5---sn-42u-nboek.googlevideo.com
