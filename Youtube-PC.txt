@@ -520,6 +520,8 @@ r3---sn-42u-nboes.googlevideo.com
 r3---sn-42u-nboll.googlevideo.com
 r3---sn-42u-nboe6.googlevideo.com
 r3---sn-npoeen7y.googlevideo.com
+r3---sn-npoe7nez.googlevideo.com
+r3---sn-42u-nbos6.googlevideo.com
 #
 # [Video4]
 r4---sn-42u-nbosk.googlevideo.com
@@ -530,6 +532,7 @@ r4---sn-un57sn76.googlevideo.com
 r4---sn-42u-8j5s.googlevideo.com
 r4---sn-42u-nbole.googlevideo.com
 r4---sn-42u-nboee.googlevideo.com
+r4---sn-42u-nboel.googlevideo.com
 #
 # [Video5]
 r5---sn-42u-nboek.googlevideo.com
