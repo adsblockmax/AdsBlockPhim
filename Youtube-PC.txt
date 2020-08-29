@@ -489,6 +489,8 @@ r1---sn-42u-nboll.googlevideo.com
 r1---sn-42u-nbosr.googlevideo.com
 r1---sn-42u-nbosk.googlevideo.com
 r1---sn-npoe7ned.googlevideo.com
+r1---sn-npoe7nes.googlevideo.com
+r1---sn-npoeen7k.googlevideo.com
 #
 # [Video2]
 r2---sn-9gv7ened.googlevideo.com
@@ -507,6 +509,7 @@ r2---sn-npoeener.googlevideo.com
 r2---sn-42u-2iie.googlevideo.com
 r2---sn-42u-nboed.googlevideo.com
 r2---sn-42u-nboe6.googlevideo.com
+r2---sn-42u-nboes.googlevideo.com
 #
 # [Video3]
 r3---sn-vgqsknls.googlevideo.com
@@ -526,6 +529,8 @@ r3---sn-npoe7nez.googlevideo.com
 r3---sn-42u-nbos6.googlevideo.com
 r3---sn-42u-nboel.googlevideo.com
 r3---sn-42u-nboed.googlevideo.com
+r3---sn-42u-nbosr.googlevideo.com
+r3---sn-npoe7nl6.googlevideo.com
 #
 # [Video4]
 r4---sn-42u-nbosk.googlevideo.com
@@ -541,7 +546,8 @@ r4---sn-42u-nbosr.googlevideo.com
 r4---sn-42u-nbosz.googlevideo.com
 r4---sn-42u-nbos6.googlevideo.com
 r4---sn-npoeenee.googlevideo.com
-r3---sn-42u-nbosr.googlevideo.com
+r4---sn-42u-nboez.googlevideo.com
+r4---sn-npoe7nl6.googlevideo.com
 #
 # [Video5]
 r5---sn-42u-nboek.googlevideo.com
@@ -559,6 +565,7 @@ r5---sn-42u-nboe6.googlevideo.com
 r5---sn-42u-nbosd.googlevideo.com
 r5---sn-npoeened.googlevideo.com
 r5---sn-npoe7n7r.googlevideo.com
+r5---sn-apn7en7l.googlevideo.com
 #
 # [Video6]
 r6---sn-42u-nboes.googlevideo.com
@@ -569,6 +576,7 @@ r6---sn-42u-nbosk.googlevideo.com
 r6---sn-42u-2iie.googlevideo.com
 r6---sn-42u-nboel.googlevideo.com
 r6---sn-42u-nbosz.googlevideo.com
+r6---sn-42u-nbos6.googlevideo.com
 #
 # [Video7]
 r7---sn-42u-nbosr.googlevideo.com
@@ -581,7 +589,7 @@ r7---sn-42u-nbosl.googlevideo.com
 r7---sn-42u-nboez.googlevideo.com
 r7---sn-42u-nbos6.googlevideo.com
 r7---sn-42u-nbosz.googlevideo.com
-
+r7---sn-42u-nboe6.googlevideo.com
 #
 # [Video8]
 r8---sn-42u-nbosd.googlevideo.com
