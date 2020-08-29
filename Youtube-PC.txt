@@ -489,6 +489,7 @@ r1---sn-42u-nbose.googlevideo.com
 r1---sn-42u-nbosl.googlevideo.com
 r1---sn-42u-nboll.googlevideo.com
 r1---sn-42u-nbosr.googlevideo.com
+r1---sn-42u-nbosk.googlevideo.com
 #
 # [Video2]
 r2---sn-9gv7ened.googlevideo.com
@@ -567,6 +568,8 @@ r7---sn-42u-nbosk.googlevideo.com
 r7---sn-42u-2iie.googlevideo.com
 r7---sn-42u-nbosl.googlevideo.com
 r7---sn-42u-nboez.googlevideo.com
+r7---sn-42u-nbos6.googlevideo.com
+r7---sn-42u-nbosz.googlevideo.com
 
 #
 # [Video8]
