@@ -2,6 +2,8 @@ img.iamcdn.net
 ad.img.iamcdn.net
 ad.iamcdn.net
 ad.8live.win
+ads.img.iamcdn.net
+0.0.0.0 img.iamcdn.net
 iamcdn.net-players-player.min.css
 tvhay.org-utm-medium-Float-right-utm-campaign-CPD
 iamcdn.net-players-sotrym.player.min.css
@@ -39,6 +41,8 @@ tvhayz.org/ads/365.php
 tvhayz.org/playergk/fingerprint2.min.js
 tvhayz.org/preload/
 tvhayz.org/guide/$script,xmlhttprequest
+ad.tvhayz.org/preload/
+tvhayz.org-preload
 i.imgur.com
 ads.8bongda.com
 ads.bongdatv.net
@@ -51,7 +55,7 @@ ads.baprang.tv
 ads.mythethao.net
 ads.tv.101vn.com
 ads.xemtivingon.com
-ads.tvhayz.org
+ad.tvhayz.org
 ads.banh24h.com
 ads.vuviphim.com
 ads.phimgi.tv
@@ -63,6 +67,14 @@ ads.hoitruyentranh.com
 ads.90p.tv
 bit.ly
 ad.bit.ly
+0.0.0.0 bit.ly
+0.0.0.0 mibet.com
+0.0.0.0 mibet88.win
+ad.mibet88.win
+ad.five88.biz
+ad.fonts.googleapis.com
+ad.ag18.mibet88.one
+ad.fabet.info
 
 #[Video]
 r6---sn-25ge7nsl.googlevideo.com
