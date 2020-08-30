@@ -1,12 +1,12 @@
-0.0.0.0 tvhayz.org/ads/365.php
-tvhay.org#%#AG_abortOnPropertyWrite('tvhay');
-0.0.0.0 tvhay.org/guide/tvhpu11.js
-0.0.0.0 tvhay.org/guide/punew-tvh.js
-0.0.0.0 tvhay.org/preload/php
-0.0.0.0 tvhay.org/guide/pre.xml
-0.0.0.0 p.jwpcdn.com/vast.js$important,domain=tvhay.org
-0.0.0.0 tvhay.org/playergk/fingerprint2.min.js
+0.0.0.0 tvhayz.org-ads.365.php
+tvhay.org-AG.abortOnPropertyWrite.tvhayz
+0.0.0.0 tvhayz.org-guide-tvhpu11.js
+0.0.0.0 tvhayz.org-guide-punew-tvh.js
+0.0.0.0 tvhayz.org-preload-php
+0.0.0.0 tvhayz.org-guide-pre.xml
+0.0.0.0 p.jwpcdn.com-vast.js-important-domain.tvhay.org
+0.0.0.0 tvhayz.org-playergk-fingerprint2.min.js
 tvhay.org##.float-ck
-tvhay.org##.ad_location
+tvhay.org##.ad-location
 
-0.0.0.0 tvhayz.org/playergk/fingerprint2.min.js
+0.0.0.0 tvhayz.org-playergk-fingerprint2.min.js
