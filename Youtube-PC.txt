@@ -472,13 +472,7 @@ youtube.com-share-panel-services-containerdiv#share-services-container
 koskomp.ru-block.youtube
 hidesharebuttoninyoutubeplayer
 grammarly.comyoutube.com-share-panel
-yt3.ggpht.com
-ads30.adcolony.com
-play.googleapis.com
-app-measurement.com
-safebrowsing.googleapis.com
-www.googleadservices.com
-growth-pa.googleapis.com
+
 
 # [Video1]
 r1---sn-42u-nboed.googlevideo.com
