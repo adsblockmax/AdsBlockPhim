@@ -142,7 +142,7 @@ youtube.complayerapithird-party
 youtube.comytsdomainfilmi7.com
 youtube.comgetvideoinfoxmlhttprequestdomainmusic.youtube.comtv.youtube.com
 googleads.g.doubleclick.netdomainyoutube.com
-m.youtube.comgetmidrolldomainyoutube.com
+ad.m.youtube.comgetmidrolldomainyoutube.com
 pagead2.googlesyndication.comdomainyoutube.com
 static.doubleclick.netdomainyoutube.com
 www.google.compageaddomainyoutube.com
@@ -204,7 +204,7 @@ youtube.com##.ytp-ad-progress-list
 youtube.com##ytm-promoted-video-renderer
 youtube.com##ahrefhttpwww.youtube.comcthru
 youtube.com##ahrefhttpswww.youtube.comcthru
-m.youtube.com##aonclickpingurlhttpwww.google.comaclk
+ad.com##aonclickpingurlhttpwww.google.comaclk
 youtube.com##ytd-compact-promoted-video-renderer
 youtube.com##ytd-companion-slot-renderer
 youtube.com##ytd-promoted-sparkles-text-search-renderer
