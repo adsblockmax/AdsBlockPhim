@@ -2,3 +2,1370 @@ ad.tvhayz.org
 xem7.com
 xemphimvtv.net
 ad.location
+
+descriptionvietnameseadblockfilterlist.
+checksum1qisrke4hwj84cbwbl1nw
+titleabpvnlist
+version2.0.7.55
+timeupdated2020-08-28t1601230300
+expires4daysupdatefrequency
+
+originalversion202008281956
+titleabpvnlistsalaphim.com
+lastmodified28aug20201956utc7
+expires1daysupdatefrequency
+
+abpvnlistfilter
+copyrightabpvn
+homepagehttpsabpvn.com
+licensegplv3httpsgithub.comabpvnabpvnblobmasterlicense
+pleasereportanyunblockedadsorproblemsbyemailorinourfanpage
+mithcmcxingivemailhocfanpage
+emailsupportabpvn.com
+facebookfanpagehttpswww.facebook.comabpvn.org
+forumhttpsvoz.vntabpvn-chan-quang-cao-cho-nguoi-viet.25778
+reportnewissueongithubhttpsgithub.comabpvnabpvnissuesnew
+----------genericblockingrules----------
+popupdomainplayhydrax.comhydracdn.network
+popupthird-partydomainappvn.combanh24h.commegaurl.inhamtruyen.comrazorphim.comphim1080.netblogtruyen.vn
+webrtcdomainphim14.netappvn.com
+.comcpcscript
+.comqc
+.netadsimage
+.netcpfscript
+.tvadsscriptdomainvkool.net
+.tvadsimage
+.vnad
+.vnads
+.vnc3s-adxmlhttprequest
+.vnqc
+24h-ad.
+ads.gif
+ads.xmlxmlhttprequest
+allposition-zone-.ads
+assetspopup.js
+banner-ads.
+banner.gif
+blueserving.
+cvast.scriptxmlhttprequestthird-party
+dc.motphimz.net.gif
+images.accesstrade.vn
+imagesqc
+ketqua.netvidqc
+meta.vnajxajxtopproducts2.aspxdomainquantrimang.comdownload.com.vn
+polyad.
+pre-roll.xmlthird-party
+qcaodomainthegioididong.com
+quang20cao
+quangcao
+quangcao.
+quangcaodomainmuabanraovat.comlinkneverdie.com
+realclick.vn
+rootads
+storesadsdata
+uploadedads
+uploadswangcao
+uts.js
+vast.scriptxmlhttprequestdomainynet.co.ilxemvtv.netnhaccuatui.com
+vastd.xmlhttprequest
+videojs.ima.js
+zone.uniad.vnimage
+a3manga.com0.0.0.0 single-video
+a3manga.com##divid-catfish
+11bet.popupthird-party
+123phim.topcspscript-srcselfdataunsafe-eval
+188bongda.comthird-party
+4.bp.blogspot.com-992t0itjqn0w-vw5ta8luiaaaaaaabslypwopzp0evlwtqvoqni6vg1ww9bqmturwchmycws0
+5giay.vnigo
+7mad.7m.domainvn2.7msport.comvn.7msport.com
+7mad1.7m.domainvn2.7msport.comvn.7msport.com
+7mimg.7m.domainvn2.7msport.comvn.7msport.com
+8bongda.comwp-contentuploads201606demo120x400new.jpg
+8bongda.com.gif
+a.vdo.aidomaintruyencv.com
+ad-.24hstatic.comupload
+admin.phim4k.netbanner
+ads.autodaily.vn
+ads.8live.compopup
+ads.nghenhinvietnam.vn
+ahaclip.com.gifdomainmmo4me.com
+ahaphim.comimagessva
+allmobtip.com
+anh.24h.com.vnupload.gif
+anime47.com.gif
+animevsub.tv.gifimage
+api.xemtvhd.comsubdocument
+apitvh.netpreloadxmlhttprequest
+apitvh.net.xmlxmlhttprequest
+as.gamevui.comdomaindownload.vn
+as.gamevui.comimage
+bachngocsach.comforumstylesfox9qc-
+banh24h.com.gifimage
+banthang.liveadspopup
+banthangtv.b-cdn.net.gif
+baobongda.netfiles.gif
+baobongda.netfilesm88-
+baonga.comquangcaoimage
+baonga.comimage.gif
+baotocdep.infosubdocumentthird-party
+batdongsan.com.vnbanner
+batdongsan.com.vnscriptsbanner.js
+bilutvz.orgthemejspop.js
+biphimz.tv.gif
+bit.lydomainbiphimz.tvkingphim.netvphim.netphimmedia.infophimmedia.tvvkool.nethuphim.com
+bit.lypopupdomainkingphim.net
+blogfonts.comdomainhosocongty.vnimage
+blogspot.com-bannerimagedomainblogtruyen.vn
+blogspot.com.gifdomainphim33.orghamtruyen.comtruyensieuhay.comhamtruyen.vnhocvientruyentranh.netmythethao.netvuviphimz.comkhophimle.tv
+blogtruyen.vnscriptsbanner-preload.js
+blogtruyen.vnscriptsiframe-rand.js
+blueadss.com
+bongda365.tvvideomedia
+bongda365.vipvideomedia
+bongngo.tvassetsgames.gif
+bp.blogspot.comimagedomaintivi4k.com
+bp.blogspot.coms0imagedomainblogtruyen.vn
+browser.coccoc.comjs
+cand.com.vnadv
+catscdn.vnadscache
+catscdn.vnadsdefine
+catscdn.vnbanner
+cdn.baogiaothong.vnuploadimagesadimage
+cdn.comedia.coccoc.comobjectscript
+cdn.jsdelivr.netadscriptdanviet.js
+cdn.jsdelivr.netarlinablock.js
+cdn.truyentranh.netfrontendplayerjw77.10.2jwplayer.js
+cdn.watching.vnassetsimgbannerimage
+cdn.watching.vnjspop.js
+cdn.webhoctienganh.comassethomeimgbanner
+cdn1.lhmanga.com.gifimage
+cdnasset.dantri.com.vnfeasset-dtms.html
+chiasenhac.vnbanner
+chodansinh.net.gif
+chonkeo.com.gifimage
+chophanthiet.uschauimage
+chophanthiet.usimagesbanner
+chophanthiet.usimagesphanthiet.jpg
+chothuexenanggiare.compopupthird-partydomainfont.vn
+chovinh.comdatasiropu.gifimage
+chungket.net.gif
+coccoc.comskin
+coccoc.comvastplayer
+code.gunnymienphi.net.gif
+code.hoiquantinhoc.vnthird-partyscript
+cohet.orgimagesnohuvip
+congdongvip.comforum.js
+congly.vnadvimage
+congly.vnajax.phpfncshow.adv
+core.vnecdn.compc.js
+creatives.dfnb-ads.com
+daidoanket.vnbannerimage
+dailymotion.comembedsubdocumentdomainblogtruyen.vntruyentranhtuan.comtruyensieuhay.comwebtruyen.com
+data.chiasenhac.combanner
+delivery.yeah1media.vn
+depmoingay.net.vnbanner
+diendanlequydon.combanner
+downmienphi.combannerimage
+downmienphi.netthemesdownmienphiimagesbanner-
+explus.vngooima.js
+facebook.comv2.9pluginsvideo.phpappid658710251144761domainkhoaitv.org
+fb88sports.comcreativebannerimage
+fptplay.orgapipopup
+fptplay.vnjsadsplayplugins.js
+fptplay.vnjstrackertracker.js
+fptshop.com.vnbanner
+fshare.vnlibjwplayerjwplayer.js
+fshare.vnlibvideofshare.mp4
+fshare.vnmediabannerfshare
+fun120.compopupthird-party
+fun88asia.comaffpopupthird-party
+game8.vnpartialadv
+geniee.third-party
+giadinhvietnam.comapiadv
+giaoduc.net.vnbannerscript
+giaoduc.net.vnads
+giaoducthoidai.vnbannerimage
+gmodules.comgadgetsproxycontainerigurl.gif
+gmodules.comgadgetsproxycontainerigurlhttps1.bp.blogspot.comimagedomaintivi4k.com
+go3xsex.comsubdocumentthird-party
+googlecontentmanager.comimagethird-party
+googleusercontent.com.gifdomaintivi4k.com
+hamtruyen.comscriptsadsqc.js
+hamtruyen.comscriptsblueyonew.js
+hamtruyen.comscriptsixinh.js
+hamtruyen.comscriptsjwplayer.js
+hamtruyen.combannerqc
+hamtruyen.comytb.html
+hayghetv.complayersads
+hayghetv.com.gif
+haynhucnhoi.tvapithird-party
+hdvietnam.combanner
+hdvip.tv.gif
+hdvip.tv.xmlxmlhttprequest
+hinhso.comdomaindiendanmaychu.vnimage
+hoanluu.com.gifimage
+hoc24.vnimageszuize.jpg
+hoitruyentranh.com.gif
+hosocongty.vnuploadslinksite
+hosocongty.vnuploadsproductsthird-partyimage
+hotfilm.sitethird-partypopup
+hotnhat.com.vnimagesimagethird-party
+huphim.comassetsthemesjsads33.js
+i.imgur.comdomainchophanthiet.usnhacdj.vnphimmedia.infophimmedia.tvphim.mediaphim13.nettruyenfull.vn
+i.imgur.com.gifdomain8bongda.combongdatv.nettructiepbongda.xyztv.101vn.comxemtivingon.comtvhayz.orgbanh24h.comvuviphim.comphimgi.tvbinhluan.livevuviphimz.comphimnhetv.net11met.livehoitruyentranh.com90p.tvmythethao.netbaprang.tvfptplay.orgyeuphimmoi.comgoldphim.comweblinhtinh.xyz
+i.k8info.comimagespromothird-party
+iamcdn.netplayersplayera.dmins.js
+igo.5giay.vnmobile
+igo.5giay.vn.gif
+image.24h.com.vnbanner
+image.diaoconline.vnbanner-dooldomaindiaoconline.vn
+image.thuvienvatly.comhomeimagesbanners
+images.asianbookie.comvwin
+images.tuyensinh247.comimagedomainsachbaitap.com
+images.tuyensinh247.combanner-
+images.vov.vnuploadedqc
+images1.violympic.vnassetsimages.gif
+images2-focus-opensocial.googleusercontent.com.gifimagedomaintvhayz.org90phut.tvbinhluan.live
+images2.imgbox.com.gifimagedomainocumeo.com
+imei.vcdn.clubstorage20hh247wangcao
+img.anime47.comimgurhnijfzc.jpg
+img.dothi.net.gif
+img.hayhaytv.compopup
+img.keonhacai.netimggmodules.phpurl.gifimage
+img.ketqua.net.gif
+inet.vnimagesbanner
+ismcorp.vn.gifdomainhdvietnam.com
+js-agent.newrelic.com
+js.pmcontent.comjsambientclient.js
+k8wap.compopupthird-party
+kenhvideoz.net.gif
+ketqua.vnuploadsimages.gif
+khogamepc.comwp-contentpluginssimple-adblock-notice-pro
+khogamepc.comwp-contentuploads.gif
+kiemhieptruyen.comjscopy.js
+kienthuc.net.vn.ads
+kienthuc.net.vnbanner.min.js
+kienthucforex.comwp-contentuploads202004fotbanner.jpg
+kqxs.vnimagesbanner
+kzzcf.hotngay.vnscriptdomainyeuphimmoi.com
+laodong.vnquangcaoonline
+laptrinhvb.netuploadsbanner.gifimage
+laptrinhvb.netuploadsphanmemlaytintudongbatdongsan.png
+lh3.googleusercontent.com.gifdomaintvmienphi.net
+lh3.googleusercontent.com.gifimagedomainphimplay.com
+licklink.netimgbanner
+linksvip.netimagesbanner
+linksvip.netvipindexfileslinksvip.js
+livestreambongda.tv.gif
+livestreambongda.tv.gifimage
+loinhacsong.comimagesbanner
+luatminhkhue.vncommonadshowleft
+luatvietnam.vnuploaded.gif
+mangak.info.gifimage
+mangaqq.comqc-new
+media.coccoc.comimageobjectpopup
+media.dabong247.comads
+media.ex-cdn.comqcimage
+media.giphy.commediaimagedomainanimevsub.tvphimgi.tvthevangtv.comngoac.tvvaoroi.tvdabong.netbanthang.liveibongda.viptructiepbongda.mobibongda365.tvbongda365.vip
+media.jxf88.comthird-party
+media.store123doc.comimagesweb2tuyen-dung-min.png
+media2d.netthird-party
+media3.scdn.vnbanners
+mi2manga.mobi.gif
+minhngoc.net.gif
+mkocdn.combundlesmkoxemjwplayerpluginsv0.0.24gooima.js
+moon.vnimagesmarketing
+movcpm.comwatch.xml
+netphimm.com.gifimage
+nghenhinvietnam.vnbannerscript
+nghenhinvietnam.vndata.ads
+nghienphimtn90.com.gif
+nguoi-viet.comadvanced-adsscript
+nguoi-viet.comadvertisingscript
+nguoi-viet.combannerimage
+nhaccuatui.comajaxads
+nhandan.com.vncdnvnimagesbannersimage
+nhipcaudautu.vngafinscript
+nhipcaudautu.vncontentqc-image
+nhipcaudautu.vnmedia.gif
+nhipsongdoanhnghiep.cuocsongantoan.vn.ads
+nhipsongdoanhnghiep.cuocsongantoan.vnbannerscript
+nhipsongdoanhnghiep.cuocsongantoan.vnbanner.css
+ntruyen.infoadsubdocument
+nv-ad-.24hstatic.comimageuploaduplo8ad
+onecms.vnbannerimage
+onthitoeic.vnwp-contentthemesdemetbanner-
+phim1080.netbanner
+phim1080.netsponsor
+phim7z.tvadspopup.htmlpopup
+phimmedia.info.xmlthird-party
+phimmedia.tv.xmlthird-party
+phimmoi.netjsambient
+phimmoi.netjspartnerscript
+phimmoi.netjsvtlaimoviepublicpad.js
+phimmoizz.netjsambient
+phimmoizz.netjspartnerscript
+phimmoizz.netjsvtlaimoviepublicpad.js
+phimnhanh.netbanner
+phimnhanh.net.gif
+phobolsatv.comad-image
+photo2.tinhte.vndataattachment-filesbanner
+phunutoday.vnimagesbanners
+phuongtrinhhoahoc.comimagesbanner
+pic.cydia.vnbanner
+pic.gsm.vnbanner
+pl.ventunotech.compluginscntplayerventunosmartplayer.jsdomaintruyenfull.vn
+player.cliphub.scriptdomainchimsedinang.com
+plo.vn.ads
+plo.vnbanner.min.js
+popupmaker.comdomainrazorphim.com
+pose.com.vncolgatecontent-box-colgatesubdocument
+postimg.cc.gifdomaintivi4k.comkeonhacai1.nettructiepbongda.xyztv.101vn.com8bongda.comxemtivisohd.comxemphimhayz.net
+purgrobi.comub.pithird-party
+qc-static.coccoc.com
+qtcshop.comimagesthird-party
+quaivatdienanh.combannerimage
+razorphim.comwp-contentuploads202005cho-thue-quang-cao-250-600.png
+razorphim.comwp-contentuploads202007diablo.png
+razorphim.com.gifimage
+razorphim.com.mp4third-party
+s3.amazonaws.comdomainphimnhanh.comphimmedia.infophimmedia.tvhamtruyen.comphimmoi.net
+salaphim.comapplicationplayerjsvastvideoplugin.js
+salaphim.comimagesimage
+salaphim.com.phpxmlhttprequest
+salaphim.comads-media
+santruongit.compopupthird-party
+sapo.vnblogwp-contentuploads201807banner-gift.gifimage
+senpay.vnwidget
+sg-test-11.slatic.netotherlzd-ad
+sggp.org.vn.ads
+sggp.org.vnbanner
+shoppanda.copartners
+sohagame.vcmedia.vnswf
+sohuutritue.net.vnfilesqc
+st.getsitecontrol.comscriptdomainsachmoi.net
+static-znews.zadn.vnbanner
+static.24h.com.vn-background-
+static.8cache.comspon
+static.8cache.comtaitro
+static.bongda24h.vnmedias.gif
+static.dongphim.net.gif
+static.download.com.vncache.aspxpathadscript
+static.hayhaytv.com.mp4
+static.hdo.tvtemplatefrontendimagesfloatbannerhdo.png
+static.hdo.tvtemplatefrontendimagestopplayer.png
+static.hdo.tvtemplatefrontendimagesfloat-logo-pose.png
+static.htvonline.com.vnlayoutimagesbanner.jpg
+static.htvonline.com.vnlayoutimageslienhequangcao.png
+static.ketqua.netadvimgs
+static.ketqua.netimgqc
+static.mepuzz.comsdkv2mepuzzserviceworker.min.js
+static.nhaccuatui.comimgqc
+static.voocdn.com.gifdomaindongphym.comdongphym.net
+static.ybox.vn.gif
+staticflickr.com.gifdomainchophanthiet.us
+stc-tv.zing.vnskinstvv2jsfadblock.min.js
+stc.nas.nixcdn.com.gif
+storage.fshare.vnimagesthird-party
+storage.googleapis.comadasia-ad-network-origin
+stream.anime4u.net-ad.xml
+taboola.comscriptthird-party
+tai.go88.compopupthird-party
+tangthuvien.vnforumimagesdomaintangthuvien.vn
+tangthuvien.vnforumsupervipimage
+tapchihuongviet.eubannersimage
+tapchikientruc.com.vnwp-contentuploadsangwpitems
+tapchitaichinh.vnadv.
+teaserok.comthird-party
+tech24.vnbanner
+techrum.vnlouistangsliderbanner
+thanglongkydao.comimagespx.gifimage
+thanglongkydao.comimageslogobannerimage
+thanhnien.vn.ads
+thanhtra.com.vndataimageshostimage
+thesaigontimes.vndoitacqc
+thuckhuya.net.mp4media
+thuckhuya.net.gifimage
+tiin.vnbanner
+tinmoi.vnmodajaxactgetads
+tinmoi.vnga.js
+tinsoikeo.com.gifimage
+tivi12h.netadversubdocument
+tocbien.com.gifthird-party
+topitworks.comvisalarywidgetsubdocument
+tr.topdevvn.comjsfollow.js
+trochoivui.comnoidungads
+tructiepbongda.mobithemesnewbongda.gif
+truyencv.comimages300x600.jpgimage
+truyencv.comimagesbn
+truyencv.comimageslzd-300.jpegimage
+truyencv.comimagestvmb-2.pngimage
+truyencv.comimagestvmd-1.pngimage
+truyencv.comjslicense.2.js
+truyencv.comjsloadvideo.jsscript
+truyencv.comjwplayer.js
+truyentranhtuan.comwp-contentbanners
+truyentranhtuan.comsubdocumentthird-party
+truyentranhtuan.com.gifimage
+tuhocanninhmang.comimagesbanners
+tuvannet.debannerimage
+tuyensinh247.comimagethird-party
+tvhayz.orgguidescriptxmlhttprequest
+tvhayz.orgpreload
+tvhayz.org.xmlxmlhttprequestthird-party
+uniad.third-party
+upanh4.hocvientruyentranh.net.gifimage
+upload.kingphim.tv.gif
+upsieutoc.com.gifdomainbongda365.tvbongda365.vipbanthang.live
+upsieutoc.combannerdomainchophanthiet.us
+uyenland.comthird-partydomainfont.vn
+vegacdn.com.gifimage
+vietbao.comadvcounter
+vietinfo.euadv.image
+vietjack.comgitimages2k2new2.jpg
+vietjack.comgitimagesbanner
+vietnamplus.vnraovat.aspx
+vietyo.comyomedia
+vjs.zencdn.net5.20.3video.min.jsdomaingacsach.com
+vkool.netjsabp.js
+vkool.netjspov.js
+vkool.netswfxmlhttprequest
+vn-zoom.orgbanner-
+vtc.vnadsv
+vuighe.tv.gifimage
+w88clubw88win.comimagethird-party
+web.lotuscdn.vn.gifdomainkhophimle.tv
+weblinhtinh.xyzwp-contentuploads202005sidebar-the-wings-
+webtruyen.compublicfrontenddeskjsloadvideo.js
+xehay.vnpublichtml5ads
+xemchuatv.netadsimagesubdocument
+xemphimplus.netbannerimage
+xemphimsoz.comimg
+xemphimvtv.netpop.js
+xemphimvtv.netuploadimgdownload-xem.png
+xemphimvtv.netuploadimgtaive.png
+xemtivimienphi.combannersubdocument
+xevathethao.vnwp-contentuploadsbanner
+xonxao.comimagesbanners
+xoso.com.vn.gif
+xoso.comimagesbanners
+yeah1.comnative-ads
+yeuphimmoi.comads
+yeuphimmoi.comsrcpopup
+yeuphimmoi.comsrcpu.js
+yeuquanvot.vnchauimagedomainchophanthiet.us
+youtube.comembedsubdocumentdomaintruyentranhth.net
+zbet.funpromotionspopup
+zjs.zadn.vnzplayerads.js
+----------addomain----------
+360game.vnpopupthird-party
+3xviet.compopup
+7isu18su.org
+88vwin.com
+ad360.vnthird-party
+ad4game-a.akamaihd.net
+adc.quantrimang.com
+adflex.vnthird-party
+adfox.vnthird-party
+adi.vcmedia.vn
+admarket.network
+admicro1.vcmedia.vnthird-party
+adnetwork.vnthird-party
+adpia.vnthird-party
+adrealclick.com
+ads-cdn.fptplay.net
+ads.bestads.me
+ads.exdynsrv.com
+ads.sporttv.today
+adsplay.netthird-party
+adtima-static.zadn.vnscript
+adtima.vnthird-party
+adtimaserver.vn
+adtop.vnthird-party
+adv.vcmedia.vn
+aff.opus-static.comthird-party
+affiliate.k4.tinhte.vn
+aj1010.online
+amcdn.vn
+an.dongphim.net
+an.xemvtv.net
+anthill.vnthird-party
+ants.vnthird-party
+anycar.vnpopup
+api.dable.io
+api.nas.nct.vn
+apinas.nct.vn
+as.gamevui.com
+asc.quantrimang.com
+asecdn.w88media.com
+at.hdsieunhanh.com
+auweelta.net
+bam.nr-data.net
+banner.5giay.vn
+barfsmiaowpit.com
+bidgear-syndication.com
+binomo.compopupthird-party
+blueseed.tvthird-party
+brand.ad
+cdn-ads.thesaigontimes.vn
+cdn-qc.coccoc.com
+cdn.videonow.ru
+cheap-ads.net
+click.advertnative.com
+cpx.vnecdn.com
+d2ho1n52p59mwv.cloudfront.net
+d3t5ngjixpjdho.cloudfront.net
+data.videonow.ru
+debet.compopupthird-party
+embed.dugout.com
+endpoint.terratraf.comthird-party
+fabet.compopupthird-party
+filmphil.netsubdocument
+five88.compopupthird-party
+gadsabs.com
+gammaplatform.comthird-party
+genieesspv.jpthird-party
+get.sbro.mescriptthird-party
+gsspat.jpthird-party
+gssprt.jpthird-party
+hadarone.com
+jbo039.compopupthird-party
+meta.vnthird-party
+neuvoo.comsubdocumentthird-party
+newthuads.com
+ngankvn2.wufoo.comdomainblogtruyen.vn
+ngoinhachung.netpopup
+nhanthuong88.compopupthird-party
+one88.compopupthird-party
+ouftukoo.net
+passtechusa.com
+pmddby.com
+popclck.org
+pub.lavanetwork.netthird-party
+qc.coccoc.comthird-party
+qc.mibet.comthird-party
+qc.tclup.com
+qc.violet.vn
+qc.x8vn.clubpopup
+qccoccocmedia.vn
+qcv5.blogtruyen.vnscriptsubdocument
+recutsparrymo.pro
+remind.tvscriptthird-party
+rigelink.com
+s.mnet-ad.net
+s1block.comthird-party
+sbbanner.com
+sbobet.compopupthird-party
+serving-sys.com
+shortlink360.comimagethird-party
+somo.vnpopup
+static.novanet.vn
+strapolan.comthird-party
+thetarhaw.com
+tttd.vnpopupthird-party
+uniad.phimmoi.net
+v9banners.com
+vietnamnetad.vnthird-party
+waust.atscript
+yoads.net
+yoads.network
+yomedia.vnthird-party
+zbet.vnpopupthird-party
+---------------elementhiding--------------
+0.0.0.0 banner-top
+0.0.0.0 bannerfloatleft
+0.0.0.0 bannerfloatright
+0.0.0.0 bannertop
+0.0.0.0 mobilecatfish
+0.0.0.0 qcballonright
+0.0.0.0 quangcaomb
+0.0.0.0 adbot
+0.0.0.0 ads-block-warning
+0.0.0.0 adsarea01
+0.0.0.0 adsarea03
+0.0.0.0 adsarea04
+0.0.0.0 close-ads
+0.0.0.0 close-ads-player
+0.0.0.0 i-said-no-thing-can-stop-me-warning.dark
+0.0.0.0 jw-cue
+0.0.0.0 leftadsbanner
+0.0.0.0 midroll-marker
+0.0.0.0 quangcao
+0.0.0.0 show-ads-banner
+0.0.0.0 hrefhttpwww.sbbanner.com
+0.0.0.0 hrefhttpsr88.vn
+0.0.0.0 hrefhttpszbet.vn
+0.0.0.0 idballoonads
+0.0.0.0 idbnbottomfixed
+0.0.0.0 a.btn.mlt-btn-watchnth-of-type4
+0.0.0.0 ahrefhttpsads.sporttv.today
+123doc.net0.0.0.0 adsshow
+123link.f4vnn.com##dividslot-ads-
+24h.com.vn0.0.0.0 backgroundbglink
+24h.com.vn0.0.0.0 linkbg1
+24h.com.vn0.0.0.0 linkbg2
+24h.com.vn0.0.0.0 baiprtincungsukien
+24h.com.vn0.0.0.0 bailienquan-pr1
+24h.com.vn0.0.0.0 fixed-top
+24h.com.vn0.0.0.0 fixed-top2
+24h.com.vn0.0.0.0 ttdntr
+24h.com.vn##divclassacenterpadb2
+24h.com.vn##divclassbanner-lr
+24h.com.vn##dividcrt-
+24h.com.vn##idbaipr
+24h.com.vn0.0.0.0 mrt5.col-abp-has.baiprtincungsukien
+24h.com.vn0.0.0.0 mrt5.col-abp-has.bailienquan-pr1
+24h.com.vneva.vn0.0.0.0 subright
+4share.vn0.0.0.0 maincontenttcentertabletbodytrtdnth-of-type3
+5giay.vn0.0.0.0 heart-banner
+7msport.com##hrefhttpbf2.zzc.cn
+8bongda.com##ahrefhttpsbit.ly
+90p.tv0.0.0.0 quangcaopc
+90phut.tv0.0.0.0 closeonclick
+ahaphim.com0.0.0.0 topplayer.quangcaomobile
+anime47.com0.0.0.0 adslocation
+anime47.com0.0.0.0 sidebarafirst-child
+anime47.com##ahrefrel
+animet.net0.0.0.0 ins-content
+animet.net0.0.0.0 ins-overlay
+animetvn.com0.0.0.0 cboxoverlay
+animetvn.com0.0.0.0 colorbox
+animetvn.com0.0.0.0 dt-bottom-right-banner
+animetvn.com0.0.0.0 footer
+animetvn.com0.0.0.0 menubentrai
+animetvn.tv0.0.0.0 fbox-background
+animevsub.tv0.0.0.0 invideowrapper
+animevsub.tv0.0.0.0 adsplayer
+animevsub.tv0.0.0.0 ballon-ck
+anonyviet.com0.0.0.0 td-container-wrap.td-logo-wrap-full.td-banner-wrap-full
+anonyviet.com0.0.0.0 widgetjnewsmoduleelementads
+appvn.com0.0.0.0 linhnguyen-modal
+appvn.com0.0.0.0 linhnguyen-modal-bg
+autodaily.vnxehay.vn0.0.0.0 banner3double
+baiviet.com0.0.0.0 text-16
+baiviet.com0.0.0.0 text-9
+banh24h.com##ahrefhttpshapicasino.com
+banh24h.com##div.webcenter
+banh24h.com##divclassab
+banh24h.combaprang.tvphimnhetv.netnetphimm.com0.0.0.0 preload
+banthang.live0.0.0.0 ballon-bottom
+banthang.live0.0.0.0 ballon-left-pc
+banthang.live0.0.0.0 hot-menu
+banthang.live0.0.0.0 mdisreponsive
+banthang.live0.0.0.0 show-ads
+banthang.live0.0.0.0 sponsored
+banthang.live0.0.0.0 under-h1.innerheader
+banthang.livebongda365.vipbongda365.tvtructiep.xemchuatv.net0.0.0.0 buttondatcuoc
+banthang.livebongda365.vipbongda365.tvtructiep.xemchuatv.net0.0.0.0 buttonfabet
+banthang.livebongda365.vipbongda365.tvtructiep.xemchuatv.net0.0.0.0 buttonncl
+banthang.livetructiep.xemchuatv.netbongda365.tv0.0.0.0 adsplayerbanner
+baobinhthuan.com.vn0.0.0.0 ads2colbot
+baodauthau.vn0.0.0.0 advertise
+baodauthau.vn0.0.0.0 main-ad-wrapper
+baodauthau.vn##divclassads
+baodauthau.vn##dividadsweb
+baomoi.com0.0.0.0 baomoitop
+baomoi.com0.0.0.0 fyi--groupnth-of-type2
+baomoi.com0.0.0.0 is-pr
+baonga.com0.0.0.0 monkey-banner-benphai-detail
+baonga.com0.0.0.0 monkey-content-duoicanbiet
+baonga.com0.0.0.0 monkey-gioithieu-daisu
+baonga.com##div.monkey-qc
+baophapluat.vn0.0.0.0 article-sidebar
+baprang.tv0.0.0.0 mobile-catfix-top
+baprang.tv0.0.0.0 adpiabanner
+bilutvz.org0.0.0.0 adspopuppc
+bilutvz.org0.0.0.0 valueoption300250
+bilutvz.org0.0.0.0 control-box.text-center
+bilutvz.orgphimbathu.org##dividanti-abp-has.adbanner
+binhluan.live0.0.0.0 banner-bottom
+binhluan.live0.0.0.0 tv-block-4.uk-margin-remove.uk-alert
+biphimz.tv0.0.0.0 banner-sticky-footer-ad
+biphimz.tv0.0.0.0 clsov
+blogtruyen.vn0.0.0.0 barfollow
+blogtruyen.vn0.0.0.0 mbtfloat
+blogtruyen.vn0.0.0.0 bt-ads
+blogtruyen.vn0.0.0.0 closedadsspan
+blogtruyen.vn0.0.0.0 qc-inner
+blogtruyen.vn##after
+blogtruyen.vn##div.qcmchapmiddle
+blogtruyen.vn##div.qctcchapmiddle
+blogtruyen.vn##dividqcm
+blogtruyen.vnvkool.net0.0.0.0 dialog
+blogtruyen.vnvkool.net0.0.0.0 window
+bongda365.tv0.0.0.0 banners
+bongda365.tvbongda365.vip0.0.0.0 banner-under-player
+bongda365.vipbongda365.tvbanthang.live0.0.0.0 adsinplayer
+bongda365.vipbongda365.tvdabong.net##classfloat-
+bongdaso.com0.0.0.0 leftfloat
+bongdaso.com0.0.0.0 imgrecbanner
+bongdaso.com0.0.0.0 medrecbanner2
+bongdaso.com0.0.0.0 skybanner1
+bongdaso.com0.0.0.0 skybanner2
+bongdaso.com##blink
+bongdaso.comxemtivisohd.com0.0.0.0 medrecbanner1
+bongdatructuyen.live0.0.0.0 bannerfixleft
+bongdatructuyen.live0.0.0.0 bannerfixright
+bongdatructuyen.live0.0.0.0 bannersupper
+bongdatructuyen.live0.0.0.0 fancybox-overlay
+bongdatructuyen.live0.0.0.0 fancybox-wrap
+bongdatructuyen.live0.0.0.0 leftstickyads
+bongngo.tv0.0.0.0 adsstickybottom
+bongtron.tvghiban.tv0.0.0.0 adsmodal
+bongtron.tvghiban.tv0.0.0.0 bannerfixedleft.bannerfixed
+bongtron.tvghiban.tv0.0.0.0 bannerfixedright.bannerfixed
+bongtron.tvghiban.tv0.0.0.0 bannerstickyleft
+bongtron.tvghiban.tv0.0.0.0 bannerstickyright
+bongtron.tvghiban.tv0.0.0.0 btncuoc
+bongtron.tvghiban.tv0.0.0.0 mb-60.group-banner
+cbox.ws##ahrefhttpsone88.vnvi
+chap.vn0.0.0.0 myresponsiveadd
+chap.vn0.0.0.0 titlebar
+chap.vn##class1myresponsiveadd
+chiasenhac.vn0.0.0.0 csnplayerads
+chiasenhac.vn0.0.0.0 posternew
+chiasenhac.vn##ahrefclicktrackingv2.userreport.com
+chodansinh.net0.0.0.0 bannermenuhome
+chodansinh.net0.0.0.0 footer
+chodansinh.net0.0.0.0 tl
+chodansinh.net##ahrefadvgoviewbanner
+chophanthiet.us0.0.0.0 block.smaller
+chophanthiet.us##divstyleclearleft
+chophanthiet.us##tablewidth980
+chophanthiet.us##idforumads
+chotot.com0.0.0.0 onewebdesmid20listnative
+chotot.com0.0.0.0 3pqi0no2w6zgygq3pa1f8u.hidden-xs.hidden-sm
+chovinh.com0.0.0.0 qcleft
+chovinh.com0.0.0.0 qcright
+chovinh.com0.0.0.0 gqc
+coccoc.com0.0.0.0 animationcontainer
+coccoc.com0.0.0.0 top-block
+coccoc.com0.0.0.0 video-banner-overlay
+coccoc.com0.0.0.0 adsv
+coccoc.com0.0.0.0 middlebar
+coccoc.com0.0.0.0 right-wrapper
+coccoc.com##data-show-urlshttpcatalog.qc.coccoc.com
+coccoc.com##data-show-urlshttpcontext.qc.coccoc.com
+coccoc.com##ahrefhttpscontext.qc.coccoc.com
+coccoc.com##video
+coccoc.com##li-abp-hash3-abp-containssnphm
+coccoc.comphimgi.tvhuphim.combongdatructuyen.livetructiep.xemchuatv.netkhophimle.tvvietnamplus.vn0.0.0.0 ads
+congluan.vn0.0.0.0 boxadsd
+congly.vn0.0.0.0 showadv1
+congly.vn0.0.0.0 showadv2
+cuoi.tuoitre.vn0.0.0.0 banner-bottom
+cuoi.tuoitre.vndabong.netbongda365.tvbanthang.live0.0.0.0 banner-top
+dabong.net0.0.0.0 under-h1
+dabong.netbongda365.vipbongda365.tvbanthang.live0.0.0.0 adsinmatch
+dantri.com.vn0.0.0.0 admicro
+dantri.com.vn0.0.0.0 col--highlight-ads
+dantri.com.vn##section.ng-isolate-scope
+dantri.com.vn##ul.dt-list.dt-list--normallifirst-child
+datviet.com0.0.0.0 obirandombannersposts
+datviet.com0.0.0.0 widgetalobaidirandombannerswidget
+datviet.com0.0.0.0 wpadverts-widget-categories
+datviet.com0.0.0.0 wpadverts-widget-recent
+datviet.comanonyviet.com0.0.0.0 widgetcustomhtml
+designs.vn0.0.0.0 qc-right2
+dethihocki.com0.0.0.0 detailnewp
+dethihocki.com0.0.0.0 detailnewptable
+diendanxaydung.vn0.0.0.0 headeradcode
+diendanxaydung.vn0.0.0.0 rightcolumnadcode
+dongphym.netdongphym.com0.0.0.0 vast-checkpoint-wrapper
+dongphym.netdongphym.com##divclassaballon-
+dongphym.netdongphym.com##divclassabanner-
+dongphym.netdongphym.com##divclassafixed-
+dongphym.netdongphym.com##divclassapreload-
+download.com.vndownload.vngamevui.vn##dividadsbg
+download.vndownload.com.vn0.0.0.0 bgleftbanner
+download.vndownload.com.vn0.0.0.0 bgrightbanner
+download.vndownload.com.vn0.0.0.0 adlefttop2
+download.vndownload.com.vn0.0.0.0 adrightsecond2
+download.vndownload.com.vn0.0.0.0 adx-border
+download.vndownload.com.vn0.0.0.0 breview-box
+download.vndownload.com.vn##bgleftbanner
+download.vndownload.com.vn##bgrightbanner
+downmienphi.com0.0.0.0 interested
+elight.edu.vn11met.live0.0.0.0 popupbannerbeta
+eva.vn0.0.0.0 rightads.adsunitnth-of-type1
+eva.vn0.0.0.0 baiprrecomment2
+eva.vn0.0.0.0 banner300250-l
+eva.vn0.0.0.0 bannertopmasthead
+eva.vn24h.com.vn##idads
+files.pw0.0.0.0 adscenter
+files.pw0.0.0.0 adscenter2
+files.pw0.0.0.0 adscenter3
+font.vnzingnews.vn0.0.0.0 banner
+fptplay.org0.0.0.0 pc-header
+freetuts.net0.0.0.0 adsoptimal160600fixed
+freetuts.net0.0.0.0 fixedrightsidebar
+fshare.vn0.0.0.0 myelementz
+fshare.vn0.0.0.0 popup-fsub-box
+gacsach.com0.0.0.0 adsvideo
+game24h.vn0.0.0.0 lrbanner
+game8.vn0.0.0.0 allslidethecaoud
+game8.vn0.0.0.0 bn1
+game8.vn0.0.0.0 bn2
+game8.vn0.0.0.0 boxbaivietdexuat
+game8.vn0.0.0.0 boxquangcaomobile320x50
+game8.vn0.0.0.0 boxquangcaotop
+gamevui.vn0.0.0.0 adx-zone
+gamevui.vn0.0.0.0 underlay
+genk.vn0.0.0.0 adszone59slot2
+ghostviet.com0.0.0.0 navbarnotice7
+giadinhvietnam.com0.0.0.0 id26.adv
+giadinhvietnam.com0.0.0.0 martop20.fl.w100.adspc
+giadinhvietnam.comcongluan.vn0.0.0.0 expqcshare
+giaitriviet.net.vn0.0.0.0 idads1
+giaitriviet.net.vn0.0.0.0 nd
+goldphim.comweblinhtinh.xyz0.0.0.0 cat-fish
+goldphim.comweblinhtinh.xyz0.0.0.0 pop-up
+hamtruyen.com0.0.0.0 adfloatright
+hamtruyen.com0.0.0.0 glx-13315-container
+hamtruyen.com0.0.0.0 middle.container
+hamtruyen.com0.0.0.0 yomedia-video
+hamtruyen.com0.0.0.0 titlequancaog
+hamtruyen.com0.0.0.0 wrapperqcright
+hamtruyen.comhamtruyen.vn##dividbanner
+hamtruyen.comhamtruyen.vn##dividfloat
+hamtruyen.comhamtruyen.vntruyensieuhay.com##dividballon
+hayhaytv.comhdsieunhanh.com0.0.0.0 mobilemasthead
+hdo.tv0.0.0.0 canvas
+hdo.tv0.0.0.0 pose
+hdo.tv0.0.0.0 tapchisaoadscomment
+hdo.tv0.0.0.0 ads-top-popup-iframe
+hdo.tv0.0.0.0 filminfo-floatleft
+hdo.tv0.0.0.0 malert-bg-popup
+hdo.tv0.0.0.0 malert-popup
+hdo.tv0.0.0.0 tn-alert-close
+hdsieunhanh.com0.0.0.0 balloonad
+hdvietnam.com0.0.0.0 topbillboard
+hhkungfu.tv0.0.0.0 bsadsheadline
+hhkungfu.tv0.0.0.0 footer-widgets-wrap
+hoahoc247.com0.0.0.0 btnsmallfixcontainer
+hoangdinhtrong.com0.0.0.0 paused-account-modal
+hoanluu.com0.0.0.0 customhtml-2.custom-html-widget.textwidget
+hoathinh247.com0.0.0.0 ballon-ads
+hoathinh247.com0.0.0.0 fancybox-overlay
+hoatieu.vn0.0.0.0 adrightsecondx
+hoatieu.vn0.0.0.0 adrightspecial
+hoatieu.vn0.0.0.0 adrightspeciallinks
+hoatieu.vn0.0.0.0 adsrighttop
+hoatieu.vn0.0.0.0 adsuggestion
+hoatieu.vn0.0.0.0 sticky
+hoatieu.vnquantrimang.com0.0.0.0 adsposttop
+hoatieu.vnvndoc.com##divclassadbox
+hoc24.vn0.0.0.0 nav-tabs-customcenter
+hocvientruyentranh.net0.0.0.0 floatright
+hocvientruyentranh.net0.0.0.0 popup-giua-man-hinh
+hocvientruyentranh.net0.0.0.0 quang-cao-trang-truyen
+hoitruyentranh.com0.0.0.0 preloadbanner
+hoitruyentranh.com0.0.0.0 samcodeunit
+hosocongty.vn0.0.0.0 li2
+hosocongty.vn0.0.0.0 line-ads-btm
+hosocongty.vn0.0.0.0 moduleplugins
+hosocongty.vn0.0.0.0 nevicom.homepage.nevicom.columnright
+hosocongty.vnolug.vn0.0.0.0 popupcenter
+htv3tv.com0.0.0.0 ahtv3
+htv3tv.com0.0.0.0 bdvmobtop1
+htv3tv.com0.0.0.0 inplayerclose
+huphim.com0.0.0.0 catfishloader
+huphim.com##dividsideads
+ibongda.vip0.0.0.0 contentlive
+ibongda.vip0.0.0.0 popup-ads-banner
+ibongda.vip##ahrefhttpsads.sporttv.todaycodeadsbuttoncuoc
+ibongda.vipbanthang.live0.0.0.0 float-left
+ibongda.vipbanthang.live0.0.0.0 float-right
+icamera.vn0.0.0.0 texthtml-modulenth-of-type1p
+ictnews.vietnamnet.vn0.0.0.0 header-banner
+ictnews.vietnamnet.vn0.0.0.0 sidebar
+kenhsinhvien.net0.0.0.0 sectionad
+kenhsinhvien.net0.0.0.0 uniadbanner
+kenhsinhvien.net##dividuniad-loc
+kenhtao.net##div.homeadv2
+kenhvideoz.net0.0.0.0 bannerhome1
+keonhacai.net0.0.0.0 medrecbanner3
+keonhacai.net##div.adsdesktop-header
+keonhacai.net##div.bannerm
+keonhacai1.net0.0.0.0 ctnz
+keonhacai1.net0.0.0.0 pagebg.wrapper.page.container-inner.ctn
+keonhacai1.net##divstyleheight105px
+ketqua.net0.0.0.0 adsb
+ketqua.net##dividbaloon
+khoahoc.com.vn##metanetsharingadnumber3
+khophimle.tv0.0.0.0 a-single
+khophimle.tv0.0.0.0 ads-fix-bottom
+khophimle.tv0.0.0.0 ads-fix-bottom-left
+khophimle.tv0.0.0.0 stickybottom
+khophimle.tvkhoaitv.org##divclassads-fix-bottom
+kiemhieptruyen.com##ahrefhttpsshorten.asia
+kiemhieptruyen.com##p.hoi-abp-containsdeal
+kiemhieptruyen.com##p-abp-hasahrefhttpbit.ly
+kienthuc.net.vn0.0.0.0 sponsor-zonediv
+kqxs.vn0.0.0.0 bggradient-mien
+laptrinhvb.net##div.widgetnth-of-type1
+licklink.net0.0.0.0 quizz
+linksvip.net0.0.0.0 quangcao-top
+live.chonkeo.com0.0.0.0 c-ads
+live1.90p.tv0.0.0.0 off
+live1.90p.tv0.0.0.0 hidden-sm.hidden-xs.live-nav-links.list-unstyled.pull-right
+live1.90p.tv##div.footer-banner
+livestreambongda.tvthuckhuya.netbongtron.tvthedo.tv0.0.0.0 show.fade.modal-backdrop
+livestreambongda.tvthuckhuya.netxuongphimz.netvkool.netvphim.net90p.tvphim7z.tvbiphimz.tvthedo.tv0.0.0.0 overlay
+ln.hako.re0.0.0.0 mainpartdivstyletext-aligncentermargin0auto10pxauto
+loigiaihay.com0.0.0.0 bannerfooter
+loigiaihay.com0.0.0.0 countdown
+loigiaihay.comsachbaitap.com0.0.0.0 contentboxtable
+loinhacsong.com0.0.0.0 qchead
+loinhacsong.com##ahrefhttpsloinhacsong.combloghuong-dan-go-chan-quang-cao-doi-voi-website-loi-nhac-song
+luyenthithukhoa.vn##div.custom-abp-has.adsbygoogle
+m.batdongsan.com.vn0.0.0.0 aditem
+m.bongdaplus.vn0.0.0.0 video-wrapper
+m.hamtruyen.com0.0.0.0 catfish1
+m.hamtruyen.com0.0.0.0 preloadbanner
+m.phim14.net0.0.0.0 genieeoverlay
+m.phim14.net0.0.0.0 gnexpandarea
+maclife.vn0.0.0.0 adrotatewidgets
+maclife.vn0.0.0.0 entryatargetblank
+mangak.info0.0.0.0 ad300600
+mangak.info0.0.0.0 ballon-center
+mangak.info0.0.0.0 preload-mobi
+mangak.infomi2manga.mobi0.0.0.0 preload-pc
+maxreading.comtruyentranhth.net##idsticky
+medoctruyentranh.net0.0.0.0 adsstickytop
+megaurl.invnurl.netvinaurl.comlicklink.netphlame.pw0.0.0.0 link-viewcenter
+mi2manga.mobi0.0.0.0 mheader-mb
+mi2manga.mobi0.0.0.0 mheader-pc
+mmo4me.com0.0.0.0 widget-12
+moon.vn0.0.0.0 contentplaceholder1lbadvcenter
+moon.vn0.0.0.0 lbadvrightpc
+moon.vn##divstylepositionfixedtop130pxz-index3000right0bottom0width35background-color#666666border-leftsolid1px#666666border-topsolid1px#666666
+motphimzz.net0.0.0.0 catfish
+mshares.comshare.xyz0.0.0.0 ads336
+mshares.comshare.xyz##centerdiv-abp-has.adsbygoogle
+mshares.comshare.xyz##divstylefloat-abp-hasins.adsbygoogle
+ngamvn.net0.0.0.0 barfloat
+nghienphimtn90.com0.0.0.0 right-content.textwidget
+ngoac.netthevangtv.com0.0.0.0 alignright.boxdetailvideoleftmenu
+ngoac.netthevangtv.com0.0.0.0 blowplayer.boxdetailbanner
+ngoac.netthevangtv.com0.0.0.0 boxdetailvideoright
+ngoac.netthevangtv.com0.0.0.0 boxdetailvideotext
+ngoac.netthevangtv.comibongda.vip0.0.0.0 adabovebottom
+ngoac.netthevangtv.comibongda.vip0.0.0.0 divdatcuoc
+ngoac.netthevangtv.comngoac.tv0.0.0.0 center-banners
+ngoac.tv0.0.0.0 left-banners
+ngoac.tv0.0.0.0 right-banners
+ngoisao.net0.0.0.0 boxthuongmai4
+ngoisao.net0.0.0.0 mb40.boxliststore
+ngoisao.net0.0.0.0 widthcommon.boxbordertop.boxstorens
+nhaccuatui.com0.0.0.0 imapointernctplayer
+nhaccuatui.com0.0.0.0 plr01
+nhaccuatui.com0.0.0.0 plr02
+nhaccuatui.com0.0.0.0 advhome300250
+nhaccuatui.com0.0.0.0 nqc-zone
+nhacdj.vn0.0.0.0 top-adv
+nhipsongdoanhnghiep.cuocsongantoan.vn0.0.0.0 simplebanner
+noithatphuongdong.vn0.0.0.0 news-popup
+ntruyen.info0.0.0.0 balloonadcenter
+o.voz.vn0.0.0.0 sponsor
+o.voz.vn##tdwidth160
+ocumeo.com0.0.0.0 go88-mobile-catfish
+petrotimes.vn0.0.0.0 adsclick
+phim1080.net0.0.0.0 popup-under
+phim1080.net0.0.0.0 banner-preload-link
+phim1080.net0.0.0.0 ff-banner
+phim1080.net0.0.0.0 popup-link
+phim14.netahaphim.comvkool.nettechz.vnhdvn1.comphimmedia.infophimmedia.tvtvhayz.orghocvientruyentranh.nettruyentranh8.netvutienit.combanh24h.comanimevsub.tvxem-phim.tv8bongda.comntruyen.infovuviphim.comhdvip.tvphim.mediakhophimhd.netanimet.netbiphimz.tvkhogamepc.comvuviphimz.comhoitruyentranh.comvuonhoalan.netxuongphimz.netminefc.comgunnylau360.netanimetvn.tvmythethao.netvphim.netphimnhetv.netphimgi.tvphimplay.com0.0.0.0 float-ck
+phim4400.tv0.0.0.0 dadrightclick
+phim7z.tv0.0.0.0 pop-report
+phimgi.tv0.0.0.0 lixi88-ads-left
+phimgi.tv0.0.0.0 sobet-ads-right
+phimgi.tvbaprang.tv0.0.0.0 mobile-catfix
+phimgi.tvbaprang.tv0.0.0.0 pc-catfix
+phimhan.net0.0.0.0 ads-insider
+phimhan.net0.0.0.0 kzone-sticky-footer-ad
+phimhan.net0.0.0.0 preload-overlayr
+phimhan.net0.0.0.0 right-movie-info
+phimlt.com0.0.0.0 vid-ads
+phimmedia.infolinkneverdie.com0.0.0.0 sctblock
+phimmedia.infophim.media##hrefhttpsaffiliate
+phimmedia.infophimmedia.tv0.0.0.0 mobilecontentbottom
+phimmedia.infophimmedia.tv0.0.0.0 adv-300-right
+phimmoi.netphimmoizz.net0.0.0.0 ad-center-980
+phimmoi.netphimmoizz.net0.0.0.0 balloon-ad-wrap
+phimmoi.netphimmoizz.net0.0.0.0 uniad-zonetype-preload-overlay
+phimmoi.netphimmoizz.net##iduniad-zone
+phimmoi.netphimmoizz.netzone.tv0.0.0.0 uniad-zonetype-preload-container
+phimmoizz.net0.0.0.0 footer-banner
+phimnhanh.com0.0.0.0 preroll-blocker
+phimnhetv.net0.0.0.0 mobile-catfix
+phunuvietnam.vn0.0.0.0 ads-focus
+phunuvietnam.vn0.0.0.0 banner-center
+pl.tclup.com0.0.0.0 modal
+play.zing.vn0.0.0.0 ff-box
+qdnd.vn0.0.0.0 advrtise0
+qthang.net0.0.0.0 adsbygoogle
+quantrimang.com0.0.0.0 adsviewbottom
+razorphim.com0.0.0.0 asgdc
+razorphim.com##center#ads-zbet
+sachmoi.net##hrefhttpsgo.masoffer.net
+saostar.vn0.0.0.0 pc-top
+saostar.vn0.0.0.0 adblock
+saostar.vn0.0.0.0 banner-top-home
+saostar.vn0.0.0.0 pos-sticky
+saostar.vn##insclassadsbyadop
+saoteen.net0.0.0.0 advertpc
+saoteen.net0.0.0.0 desktop.has-banner.widget
+saoteen.net0.0.0.0 has-banner-desktop.mt-20.col-4
+saoteen.net0.0.0.0 has-banner-fixed.col-4
+saoteen.net0.0.0.0 mobile.has-banner.banner-body
+skmoba.com##divclassads
+tapchihuongviet.eu0.0.0.0 custom.custom
+tapchihuongviet.eubilutvz.org0.0.0.0 fanback
+tapchikientruc.com.vn0.0.0.0 ningouter
+techrum.vn0.0.0.0 widgetframeworkwidgetrendererhtml
+techrum.vn0.0.0.0 kadsvip2
+techrum.vn0.0.0.0 vipaddiv
+thanhnien.vn##dividdablewidget
+thanhtra.com.vn0.0.0.0 adsv
+thedo.tv0.0.0.0 tatqc
+thethao247.vn0.0.0.0 lc-girl-block-en2
+thethao247.vn0.0.0.0 boxsponsor
+thevangtv.com0.0.0.0 loadingplayerclassad
+thevangtv.com0.0.0.0 mainads
+thevangtv.com0.0.0.0 ads-menu-mobile
+thevangtv.com0.0.0.0 adsmobile
+thitruongtaichinhtiente.vn0.0.0.0 bannertop1
+thitruongtaichinhtiente.vn0.0.0.0 bannerobile
+thitruongtaichinhtiente.vn0.0.0.0 pc.bannerauto
+thoibao.com0.0.0.0 sidebar-primary-sidebar
+thoibao.com0.0.0.0 adcontainer.container
+thoibao.com0.0.0.0 bs-vc-block.vcclearfix.wpbcontentelement.wpbimagescarousel
+thoibao.com0.0.0.0 col-xs-8.sidebar-col
+thoibao.com0.0.0.0 dqjalsh-column-1
+thoibao.com0.0.0.0 vcalignleft
+thoibaotaichinhvietnam.vn0.0.0.0 content-qc
+thoibaotaichinhvietnam.vn0.0.0.0 qc-cm
+thoibaotaichinhvietnam.vn0.0.0.0 qc-r
+thoibaotaichinhvietnam.vn0.0.0.0 items-qc
+thoibaotaichinhvietnam.vn0.0.0.0 tab-qc
+tienichmaytinh.com##ahrefhttpsmegaurl.inref
+tiin.vn0.0.0.0 adv-detail
+tiin.vn0.0.0.0 banner-home-left
+tiin.vn0.0.0.0 tiin-taitro
+tiin.vn0.0.0.0 netnews-item-abp-hasa.netnews-source-tatro
+tinhte.vn0.0.0.0 tinhtemodsaffiliatewidget
+tinhte.vn0.0.0.0 main.jsx-3220601860
+tinhte.vn0.0.0.0 middle-comment-promotion
+tinhte.vn0.0.0.0 pro-container
+tinhte.vn0.0.0.0 promo-container
+tinhte.vn##divstylewidth320pxheight50px
+tinmoi.vn0.0.0.0 footerboxbottom
+tinnhanhchungkhoan.vntienphong.vn0.0.0.0 fyi
+tivi12h.net0.0.0.0 hidefloat
+tivi12h.nettivi4k.com0.0.0.0 adsfloat
+tivi4k.com0.0.0.0 adsbanner
+tivi4k.com0.0.0.0 topbaner
+tivi4k.com##idads
+topphimhdz.comtopphimmoiz.com0.0.0.0 balloncontentleft
+topphimhdz.comtopphimmoiz.com0.0.0.0 balloncontentright
+topphimhdz.comtopphimmoiz.com0.0.0.0 closepc
+topphimhdz.comtopphimmoiz.com0.0.0.0 fixedbottom
+topphimhdz.comtopphimmoiz.com0.0.0.0 floatcontentleft
+topphimhdz.comtopphimmoiz.com0.0.0.0 floatcontentright
+topphimhdz.comtopphimmoiz.com0.0.0.0 hideballonleft
+topphimhdz.comtopphimmoiz.com0.0.0.0 hideballonright
+topphimhdz.comtopphimmoiz.com0.0.0.0 hidefloatleft
+topphimhdz.comtopphimmoiz.com0.0.0.0 hidefloatright
+topphimhdz.comtopphimmoiz.comanimet.net0.0.0.0 gnarty-offads
+topphimmoi.com##divstylepositionfixedleft0bottom0z-index11
+topphimmoi.com##divstylepositionfixedright0bottom0z-index11
+topthuthuat.com0.0.0.0 widget.aiwidget
+topthuthuat.comanonyviet.com0.0.0.0 widget.widgettext
+tructiep.xemchuatv.net0.0.0.0 hmmainslider.league-namedivp.list-bet
+tructiep.xemchuatv.net0.0.0.0 mymodal
+tructiep.xemchuatv.net0.0.0.0 bannerfixedleftcontent
+tructiep.xemchuatv.net0.0.0.0 bannerfixedrightcontent
+tructiep.xemchuatv.net0.0.0.0 bannerstickyleftcontent
+tructiep.xemchuatv.net0.0.0.0 bannerstickyrightcontent
+tructiep.xemchuatv.net90p.tv0.0.0.0 in.fade.modal-backdrop
+tructiepbongda.mobi0.0.0.0 under-player
+tructiepbongda.mobi##ulliahrefutmsourcetructiepbongda.mobi
+tructiepbongda.mobibanthang.live0.0.0.0 bet-now
+tructiepbongda.mobibongda365.vipbongda365.tvdabong.net##classballon-
+tructiepbongda.mobidantri.com.vn0.0.0.0 top-banner
+tructiepbongda.xyz0.0.0.0 fulladimage
+truyencv.com0.0.0.0 genieeoverraybase
+truyendoc.info##data-originalhttpimgg-cdn.steepto.com
+truyenfull.vn0.0.0.0 chapter-cdividtaitro-
+truyenfull.vn0.0.0.0 ads-responsive
+truyenfull.vn0.0.0.0 desktop-taitro
+truyenfull.vn##idads-
+truyenqq.com0.0.0.0 adsmobile
+truyenqq.com0.0.0.0 bottom-banner-ads
+truyenqq.com0.0.0.0 left-banner
+truyenqq.com##dividimagepopup
+truyensieuhay.com0.0.0.0 floatleft
+truyensieuhay.com0.0.0.0 floatright
+truyensieuhay.com0.0.0.0 videowrapper
+truyentranh.net0.0.0.0 balloon-ads
+truyentranh869.com0.0.0.0 boxes
+truyentranhlh.net0.0.0.0 preload1
+truyentranhlh.net0.0.0.0 preload2
+truyentranhtam.comtruyentranh869.com0.0.0.0 tt8quangcao
+truyentranhtuan.com0.0.0.0 doc-truyen-ads-d1
+truyentranhtuan.com0.0.0.0 doc-truyen-ads-d2
+truyentranhtuan.comhoathinh247.com0.0.0.0 bannerpreload
+tuoitre.vn0.0.0.0 adsmainfooter
+tuoitre.vn0.0.0.0 adm-bot
+tuvannet.de0.0.0.0 adv-zone.adv
+tuyengiao.vn0.0.0.0 clearfix.adregion
+tuyengiao.vn0.0.0.0 visible-md.header-banners
+tv.101vn.combongdaso.comkeonhacai.net0.0.0.0 rightfloat
+tv.101vn.comkeonhacai.net0.0.0.0 fl813691
+tvhayz.orgxem7.comxemphimvtv.net0.0.0.0 adlocation
+valvrareteam.comketqua.net##arelnofollow
+vatlypt.com##atargetblankreldofollow
+vietbao.com0.0.0.0 nwwg5609
+vietbao.com##dividadspot
+vietfacetvaust.com0.0.0.0 blockwidget-3
+vietfacetvaust.com0.0.0.0 blockwidget-4
+vietfacetvaust.com0.0.0.0 header-block
+vietfacetvaust.com0.0.0.0 large-12.small-12
+vietinfo.eu0.0.0.0 advfloatleft
+vietinfo.eu0.0.0.0 advfloatright
+vietinfo.eu0.0.0.0 boxadv
+vietinfo.eu0.0.0.0 advcontent-img
+vietinfo.eu0.0.0.0 bookingaff
+vietinfo.eu0.0.0.0 title-adv
+vietjack.com0.0.0.0 block-teasers-47483
+vietjack.com##dividads
+vietnamgsm.vn0.0.0.0 headerproxy
+vietnamnet.vn0.0.0.0 vnnadspos
+vietnamnet.vn0.0.0.0 adv.row
+vietnamnet.vn0.0.0.0 box-adv
+vietnamnet.vn0.0.0.0 fmsidwidgetnewsbox
+vietnamplus.vn0.0.0.0 rubrikk
+vietnamplus.vn0.0.0.0 zone--ad
+viettelstore.vn0.0.0.0 banner-dai-bottom
+viettelstore.vn0.0.0.0 banner-dai-top
+vietyo.com0.0.0.0 bartopr
+vinaurl.com0.0.0.0 alert-danger-abp-hasahref
+violympic.vn0.0.0.0 3wpjb
+vipshare.co0.0.0.0 adsx468
+vir.com.vn0.0.0.0 rotate
+vir.com.vn0.0.0.0 rotatesecond
+vir.com.vn0.0.0.0 rotatethird
+vir.com.vn0.0.0.0 menubanner
+vkool.net0.0.0.0 adrightwatch
+vkool.net0.0.0.0 adtopplayer
+vkool.net0.0.0.0 mask
+vkool.net0.0.0.0 box-rating
+vkool.net0.0.0.0 catfish-ck
+vndoc.com##dividm203714scriptrootc936126
+vndoc.com##dividadundercontent
+vndoc.comdownload.com.vndownload.vngamevui.vn0.0.0.0 adbox
+vndoc.comquantrimang.comdownload.vngamevui.vn0.0.0.0 ouibounce-modal
+vnexpress.net0.0.0.0 adslargedetail
+vnexpress.net0.0.0.0 articleads
+vnexpress.net0.0.0.0 articleads300x250
+vnexpress.net0.0.0.0 boxbanneradvne
+vnexpress.net0.0.0.0 boxsanpham
+vnexpress.net0.0.0.0 boxshopvne
+vnexpress.net0.0.0.0 boxsp
+vnexpress.net0.0.0.0 clearfix.left.box100.boxcategoryhrefhttpspay.vnexpress.net
+vnexpress.net0.0.0.0 sectionads
+vnexpress.net0.0.0.0 sectionads300x250
+vnexpress.net0.0.0.0 sidebarraovat
+vov.vn0.0.0.0 qc-item
+voz.vn0.0.0.0 vozvnsiteside
+vtvgiaitri.vn0.0.0.0 ads-top-wrap
+vuighe.net0.0.0.0 film-info-right-content
+vuighe.net0.0.0.0 pause-banner
+vuighe.net0.0.0.0 player-pause-banner
+vuighe.netphim1080.netclipanime.com0.0.0.0 player-midpoint-progress
+vuighe.tv0.0.0.0 antiblocker
+vuighe.tv0.0.0.0 antiblockerunderplayer
+vuighe.tv0.0.0.0 ab1
+vuonhoalan.net0.0.0.0 contentmiddlerightbar
+vuviphim.com0.0.0.0 textwidget
+vuviphimz.com0.0.0.0 aiwidget-2
+webhoctienganh.com0.0.0.0 button-action-float-banner
+webtruyen.com0.0.0.0 contentdivalignright
+webtruyen.com0.0.0.0 video-player
+www.fshare.vn0.0.0.0 bannerinfooterags
+xehay.vn0.0.0.0 ad-videos-wrapper
+xem.vn##div.photolistitemnth-of-type2
+xemtivingon.comyan.vn##idballoon
+xemtivisohd.com0.0.0.0 textqc
+xemtivisohd.com0.0.0.0 textqcp
+xemtvhd.comtivi8k.net0.0.0.0 quangcaos
+xuongphimz.net0.0.0.0 float-top
+yan.vn0.0.0.0 adnode
+ybox.vn##ahrefhttpbit.ly
+yeuphimmoi.com0.0.0.0 cash-fish
+yeuphimmoi.com0.0.0.0 close-to-play-block
+yeuphimmoi.comvuighe.tvhayghetv.com0.0.0.0 balloon-block
+zingnews.vn0.0.0.0 productads
+zingnews.vn0.0.0.0 site-header
+zingnews.vnminhngoc.net.vnvn-zoom.org##idadv
+zingnews.vnvnexpress.netngoisao.net0.0.0.0 bannertop
+a3manga.comwp-contentthemesa3mangajsjw-v8jwplayer.js
+a3manga.com.gif
+msn.com0.0.0.0 qc
+---------------abpvnwhitelist--------------------
+#imagedomainanonyviet.comtuong.meautoitvn.comtruyentranhnhamnhi.comtaive.clickphim4400.tvkhogamepc.com
+12jquery.adi.
+ads.jsdomainchiasenhac.vnhplus.com.vnphimmedia.tvfptplay.vnhdo.tvnhacpro.netmegaurl.invnurl.netvinaurl.comlicklink.netmshare.xyzmshares.cotaive.clickintothelink.comloptelink.prokhogamepc.comtaivenhanh.comlinkvietvip.comlinkviet.netlinkviet.topez4linkss.commegalink.pro
+adsbutton.png
+adsplay.png
+adsxemphim.png
+advertisement.jsdomainmegaurl.inmegaurl.clubvnurl.netphimmedia.tvvinaurl.comphim.mediadownmienphi.net
+crossdomain.xml
+css.phpstylesheet
+fuckadblock.jsscriptdomainvatlypt.comphimbathu.comupload.exam24h.comkenhtao.net
+wp-contentpluginsadvanced-adsadminassetsjsadvertisement.js
+ad.doubleclick.netddmadjdomainanonyviet.com
+ads.tinmoi.vnstylesheetimage
+adsweb.vnthird-party
+animet.netadbanneradsenseadserveradview.ad.jsonxmlhttprequest
+animevsub.tvadbanneradsenseadserveradview.ad.jsonxmlhttprequest
+animevsub.tvstaticsdefaultjsfuckadblock.js
+apitvh.netembedadscode1.js
+blogspot.comimagedomaintruyentranhtuan.com
+cdnjs.cloudflare.comajaxlibsfuckadblockscript
+cdnjs.cloudflare.comajaxlibsvideojs-contrib-ads6.3.0videojs.ads.min.jsdomainphimnhanh.com
+chiasenhac.vntestads.htmlsubdocumentthird-party
+chk.ss-hn-1.vccloud.vnimagedomainchohoakieng.vn
+dafulbrightteachers.orgwp-contentthemesmtsadsense
+deo.shopeemobile.comshopeescriptstylesheet
+diendan.tiengnga.netjssiropuamads.min.jsscriptdomaindiendan.tiengnga.net
+diendanit.netjssiropuamads.min.jsscriptthird-party
+etoy.vnuploadproductimagethird-party
+game24h.vnjsadsscriptthird-party
+gateway.chotot.comxmlhttprequestdomainchotot.com
+htv3tv.comads1mobile.js
+iamcdn.netplayersads.js
+iamcdn.netplayersapp.ads.js
+imasdk.googleapis.comdomainvivo.vn24h.com.vndanet.vnpose.com.vngamevui.vnyan.vnsaostar.vnanime47.comfptplay.vn
+jsc.adskeeper.co.ukscriptdomainhhkungfu.tv
+kenhtao.netadxmlhttprequest
+licklink.netjsfull-page-script.jsscriptdomainfcine.net
+netphimm.comtrainadscodetvcvastjwplayer.jsscript
+pagead2.googlesyndication.comscriptdomainupfile.vnstartuanit.netthuthuatmeovat.netkhogamepc.comwin10.vnloinhacsong.comtailieupro.comdownmienphi.comkenhtao.netkites.vnmshares.comshare.xyzphuongtrinhhoahoc.comphlame.pwvinaurl.comtaivenhanh.comgsm1x.xyz123link.f4vnn.comhhkungfu.tvwebphanmem.comicongnghe.comhataphim.comvutrung.gnomio.com
+phim16.netthemelibsadijquery.adi.js
+pubads.g.doubleclick.netxmlhttprequestdomainvtvgiaitri.vn
+s0.2mdn.netinstreamvideoclient.jsdomainyan.vnanime47.com
+st.bebi.combebiv3.jsscriptdomainphimhan.netani4u.organime47.com
+static.doubleclick.netinstreamadstatus.jsdomainfcine.netlinkneverdie.com
+truyentranhtuan.commanga1image
+tvhayz.orgads125buon.php
+vatlypt.comadbannerxmlhttprequestthird-party
+viettelstore.vnimagesadvertisesimage
+--------elementhidingexception--------------
+1shortlink.comgenerichide
+ani4u.orggenerichide
+anime47.comgenerichide
+animet.netgenerichide
+animevsub.tvgenerichide
+anonymousvn.orggenerichide
+anonyviet.comgenerichide
+autoitvn.comgenerichide
+banh24h.comgenerichide
+bkshare.comgenerichide
+cnttngaynay.ihostfull.comgenerichide
+dafulbrightteachers.orggenerichide
+downmienphi.comgenerichide
+fcine.netgenerichide
+fsharephim.comgenerichide
+hhkungfu.tvgenerichide
+hoquangdai.comgenerichide
+htv3tv.comgenerichide
+kenh4k.comgenerichide
+khogamepc.comgenerichide
+kiemhieptruyen.comgenerichide
+linkneverdie.comgenerichide
+lmss.vngenerichide
+lolstat.gggenerichide
+luyenthithukhoa.vngenerichide
+maclife.vngenerichide
+megaurl.ingenerichide
+mrcong.comgenerichide
+mshare.xyzgenerichide
+mshares.cogenerichide
+nguyentrongvyit.blogspot.comgenerichide
+phanmemtop.netgenerichide
+phim.didibkk.comgenerichide
+phim.tvgenerichide
+phim4400.tvgenerichide
+phimbathu.comgenerichide
+projectae.netgenerichide
+qthang.netgenerichide
+quykhanhit.comgenerichide
+skmoba.comgenerichide
+tailieuchua.comgenerichide
+taisachhay.comgenerichide
+taive.clickgenerichide
+taivenhanh.comgenerichide
+thanhnguyenit.netgenerichide
+thivien.netgenerichide
+tienichmaytinh.comgenerichide
+toolsp2p.toolpg.comgenerichide
+tuong.megenerichide
+upload.exam24h.comgenerichide
+vinaurl.generichide
+vipshare.cogenerichide
+vkool.netgenerichide
+vnhd.netgenerichide
+vtvgiaitri.vngenerichide
+vurle.topgenerichide
+win10.vngenerichide
+yhocdata.comgenerichide
+apitvh.net0.0.0.0 adsmessage
+bilumoi.combilutvz.organime47.combaprang.tv123phim.top0.0.0.0 afsads
+echip.prorazorphim.comsachmoi.nettailieupro.comkenhtao.netkientruc360.infohoctap.dvtienich.com0.0.0.0 adsense
+howkteam.vnfptplay.vn0.0.0.0 adsbox
+hvdic.thivien.netstartuanit.netloinhacsong.comvinaurl.comtaivenhanh.com123link.f4vnn.com0.0.0.0 adsbygoogle
+linkviet.netlinkviet.toplinkvietvip.commegalink.proapksvip.com0.0.0.0 ad-banner
+linkviet.netlinkviet.toplinkvietvip.commegalink.proapksvip.com0.0.0.0 ad-banner
+loinhacsong.comphimgi.tvloptelink.protruyentranhaudio.com0.0.0.0 adbanner
+movies.hdviet.com0.0.0.0 sponsortext
+quiznhe.com0.0.0.0 video-ads-container
+sachmoi.net0.0.0.0 adblock
+taisachhay.comechip.pro##dividads300250-widget
+tratu.soha.vn0.0.0.0 adheader
+vutrung.gnomio.comappvn.com0.0.0.0 bannerad
+------abpvnadultblock-------
+popupdomainhentailxx.comhoihentai.comviet69.co
+pluginsvast-script
+bp.blogspot.com.gifimagedomainhentailxx.com
+coolboy112233.github.iounknowbastard
+greenupload.com.gifimagedomainthienvadia.net
+greenupload.combannerimage
+hentaivn.netjsabp.js
+hentaivn.netqc
+hentaiz.netimagessponsor
+lucky88.compopupthird-party
+sexhayvc.compopjsscript
+static.htvncdn.netjscustom-popup-1.js
+tuoi69.comballoonscript
+tuoi69.comesheik.js
+tuoi69.comtrai.js
+upanhmoi.netjsqc-pre-1.min.js
+upsieutoc.com.gifimagedomainthienvadia.net
+----------abpvnadultelementhide---------------
+hentaiz.netgenerichide
+bloghentai.info0.0.0.0 page-don
+hentaivn.net0.0.0.0 pageadsright
+hentaiz.net0.0.0.0 rmcard
+hoihentai.com0.0.0.0 bbwrappercenter
+lauxanh.orgthienvadia.net0.0.0.0 float-ck
+sexhayvc.com0.0.0.0 b-ds-footer
+sieukhung.nettuoi69.com0.0.0.0 adscenterhome
+sieukhung.nettuoi69.com0.0.0.0 banner-detail
+sieukhung.nettuoi69.com0.0.0.0 banner-topr
+thienvadia.net0.0.0.0 mynonresponsiveads
+thienvadia.net0.0.0.0 myresponsiveads
+tuoi69.comsieukhung.net0.0.0.0 barfloatr
+tuoi69.comsieukhung.net0.0.0.0 adstophome
+vlxx.com##arelnofollow
