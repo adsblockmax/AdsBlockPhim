@@ -3,7 +3,7 @@ ad.img.iamcdn.net
 ad.iamcdn.net
 ad.8live.win
 ads.img.iamcdn.net
-0.0.0.0 img.iamcdn.net
+img.iamcdn.net
 iamcdn.net-players-player.min.css
 tvhay.org-utm-medium-Float-right-utm-campaign-CPD
 iamcdn.net-players-sotrym.player.min.css
