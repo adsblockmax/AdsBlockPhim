@@ -89,8 +89,8 @@ googleapis.comyoutubestealthdomainlearnlinux.tv
 googleapis.comyoutubestealthdomainangrybirdsnest.com
 httpsforum.adguard.comindex.phpthreads8tracks-com-windows-youtube-video-keeps-buffering.23414stealthmode-referrer
 reklamadomainyoutube.com
-##.youtubesuperleaderboardadholder
-##.youtubesuperleaderoveralladarea
+youtubesuperleaderboardadholder
+youtubesuperleaderoveralladarea
 youtube.com##.ddb
 youtube.com##.overlay-ads
 youtube.com##.video-ads
